@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="821" cy="193" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,425 L0,425 L241,389 L393,359 L534,338 L787,392 L947,337 L1095,324 L1200,319 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,519 L0,519 L242,391 L453,383 L708,448 L878,462 L1065,436 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,577 L0,577 L165,475 L311,403 L481,419 L624,409 L823,557 L1038,554 L1200,553 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十四回  真劍術一女子上樹撩天　假卜卦衆英雄死心塌地</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻是又李如何敢來張望？因此日船上人俱向對岸，</tspan><tspan x="90" dy="34">故敢遠探；及見翠蓮上船，耽擱已久，碧蓮覆上，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世恆言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="866" cy="169" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,458 L0,458 L243,369 L495,333 L693,381 L876,307 L1086,304 L1200,363 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,475 L0,475 L254,456 L451,472 L699,337 L851,376 L1047,418 L1200,350 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,602 L0,602 L153,540 L368,451 L511,498 L704,545 L851,551 L1094,553 L1200,519 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世恆言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十三卷</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">府尹聽得捉了妖人，即便升廳，大怒喝道：「叵耐</tspan><tspan x="90" dy="34">這廝！</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

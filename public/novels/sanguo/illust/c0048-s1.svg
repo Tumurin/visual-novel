@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1046" cy="187" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,436 L0,436 L167,370 L319,331 L511,396 L663,323 L845,304 L1022,394 L1200,362 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,510 L0,510 L160,355 L329,345 L499,421 L662,412 L870,426 L1130,408 L1200,349 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,605 L0,605 L216,383 L413,394 L636,493 L859,486 L1036,385 L1200,496 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="423" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十八回：宴長江曹操賦詩，鎖戰船北軍用武</text>
+<text x="90" y="553" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說焦觸，張南，憑一勇之氣，飛棹小船而來。韓</tspan><tspan x="90" dy="34">當胸披掩心，手執長槍，立於船頭。焦觸船先到，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

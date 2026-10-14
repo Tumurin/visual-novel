@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="860" cy="211" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,460 L0,460 L189,397 L415,310 L579,326 L775,373 L1034,380 L1200,391 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L140,414 L380,476 L579,373 L829,388 L1068,407 L1200,440 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L160,419 L415,433 L619,427 L779,466 L979,486 L1141,488 L1200,560 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十七回    土行孫夫妻陣亡</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說鄧嬋玉大戰高蘭英有二十回合，撥馬就走。高</tspan><tspan x="90" dy="34">蘭英不知鄧嬋玉詐敗，便隨後趕來。嬋玉聞腦後鸞</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

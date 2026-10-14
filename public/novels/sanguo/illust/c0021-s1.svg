@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="944" cy="239" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,455 L0,455 L222,329 L395,320 L535,346 L725,353 L888,366 L1123,346 L1200,407 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,507 L0,507 L232,369 L404,440 L587,349 L795,355 L1005,377 L1162,467 L1200,361 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L222,526 L410,494 L647,441 L792,520 L1020,401 L1200,517 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="469" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十一回：曹操煮酒論英雄，關公賺城斬車胄</text>
+<text x="90" y="599" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說玄德正行之間，只見後面塵頭驟起，謂關，張</tspan><tspan x="90" dy="34">曰：「此必曹兵追至也。」遂下了營寨，令關，張</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="花月痕">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="928" cy="182" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,442 L0,442 L156,357 L397,360 L589,354 L755,357 L916,306 L1082,394 L1200,331 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,473 L0,473 L240,351 L390,451 L556,461 L746,400 L988,422 L1200,407 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L256,399 L440,404 L648,422 L851,528 L1001,507 L1187,421 L1200,528 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="418" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">花月痕</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十七回　李謖如匹馬捉狗頭　顏卓然單刀盟倭目</text>
+<text x="90" y="548" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">不兩月，倭目跟個國師費事來齎表而來。荷生奏聞</tspan><tspan x="90" dy="34">，奉旨準了。一面班師，一面檄卓然靈詔宣諭香山</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

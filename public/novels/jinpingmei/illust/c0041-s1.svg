@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1042" cy="212" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,456 L0,456 L226,325 L467,374 L660,402 L907,300 L1127,362 L1200,323 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,513 L0,513 L169,458 L339,345 L521,365 L681,452 L891,412 L1049,390 L1200,456 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,604 L0,604 L199,472 L343,462 L583,506 L759,411 L919,482 L1069,383 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="463" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十一回　兩孩兒聯姻共笑嬉　二佳人憤深同氣苦</text>
+<text x="90" y="593" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">頭裡兩個排軍，打著兩個大紅燈籠；後邊又是兩個</tspan><tspan x="90" dy="34">小廝，打著兩個燈籠。吳月娘在頭裡，李嬌兒、孟</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

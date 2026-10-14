@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1001" cy="128" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,436 L0,436 L154,303 L391,317 L568,364 L784,317 L960,358 L1110,303 L1200,303 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,526 L0,526 L190,381 L389,454 L567,417 L731,371 L943,466 L1149,473 L1200,370 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L214,424 L374,480 L546,415 L700,441 L922,437 L1130,396 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="414" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二四七回  曾天壽遭逢敵手  美英雄舍死戰賊</text>
+<text x="90" y="544" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">馬德帶着兩個親隨，來到裏面一看，見這院落甚是</tspan><tspan x="90" dy="34">寬大，北上房五間，東西配房各三間，餘化龍兄弟</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

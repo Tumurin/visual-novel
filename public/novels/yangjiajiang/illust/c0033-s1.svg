@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="829" cy="145" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L179,337 L358,371 L592,325 L799,340 L947,409 L1199,344 L1200,319 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,484 L0,484 L204,397 L438,373 L675,344 L862,373 L1057,474 L1200,463 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L143,542 L308,495 L531,430 L753,552 L910,499 L1108,417 L1200,387 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="423" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十三回　呂軍師布南天陣　楊六使明下三關</text>
+<text x="90" y="553" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，椿巖以師父陣囹已完，與韓延壽議曰：“今</tspan><tspan x="90" dy="34">宋兵列營於對壘，可令人下戰書與知，看他如何出</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

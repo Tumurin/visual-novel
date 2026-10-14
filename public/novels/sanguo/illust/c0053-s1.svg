@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="823" cy="145" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,418 L0,418 L203,361 L387,361 L637,318 L798,349 L1001,363 L1164,318 L1200,405 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,470 L0,470 L174,449 L325,453 L489,366 L667,444 L853,403 L1006,409 L1200,450 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,553 L0,553 L181,544 L402,395 L644,532 L870,510 L1092,486 L1200,509 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="457" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十三回：關雲長義釋黃漢升，孫仲謀大戰張文遠</text>
+<text x="90" y="587" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">雲長領兵而退。黃忠回到城中來見韓玄，玄便喝左</tspan><tspan x="90" dy="34">右捉下黃忠。忠叫曰：「無罪！」玄大怒曰：「我</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

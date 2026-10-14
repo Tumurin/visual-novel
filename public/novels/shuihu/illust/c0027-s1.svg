@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="921" cy="192" r="53" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,412 L0,412 L148,340 L315,307 L496,398 L660,330 L858,317 L1083,387 L1200,345 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,512 L0,512 L165,427 L360,405 L521,386 L713,338 L859,451 L1022,385 L1200,427 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,573 L0,573 L205,412 L366,463 L623,410 L877,522 L1049,429 L1200,509 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="443" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十七回　武松威震平安寨　施恩義奪快活林</text>
+<text x="90" y="573" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話猶未了，只見一個道：「差撥官人來了！」衆人</tspan><tspan x="90" dy="34">都自散了。武松解了包裹坐在單身房裏。只見那個</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

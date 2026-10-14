@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="痛史">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="735" cy="173" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,447 L0,447 L141,371 L373,339 L593,329 L754,324 L915,331 L1111,410 L1200,401 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L203,397 L461,442 L637,366 L777,421 L1026,359 L1200,473 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,569 L0,569 L183,515 L391,502 L536,516 L738,467 L904,400 L1119,521 L1200,524 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="448" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">痛史</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十八回　滅宋室生致文天祥　論圖形氣死張弘範</text>
+<text x="90" y="578" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">到了祥興二年，正月元日，朝賀已畢，即奉兩宮，</tspan><tspan x="90" dy="34">舍陸登舟，駛至海口，御舟居中下碇。四面數百號</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

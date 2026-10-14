@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1034" cy="167" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,419 L0,419 L219,389 L474,366 L726,390 L976,341 L1138,338 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,520 L0,520 L255,460 L461,391 L711,424 L918,381 L1153,428 L1200,429 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L252,399 L392,392 L540,506 L736,449 L967,390 L1181,533 L1200,421 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="440" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七回     得古今盆完婚淑女　收公孫策密訪奸人</text>
+<text x="90" y="570" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">正談之間，只見外班享道：「劉氏現已傳到。」包</tspan><tspan x="90" dy="34">公吩咐伺候，便叫李才陪侍公孫先生，自己帶了包</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="999" cy="125" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,418 L0,418 L249,400 L442,309 L634,326 L779,407 L933,362 L1155,329 L1200,398 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,525 L0,525 L201,426 L348,350 L525,404 L737,358 L967,463 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,590 L0,590 L191,388 L387,489 L572,408 L771,472 L922,392 L1179,482 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="396" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十八回  醫怪病青面消磨　受奇榮白衣發達</text>
+<text x="90" y="526" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">金相大怒，拍案喝道：“權禹不奏上行，擅動兵馬</tspan><tspan x="90" dy="34">，一大罪也；輕舉挫威，喪師辱國，二大罪也；諱</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

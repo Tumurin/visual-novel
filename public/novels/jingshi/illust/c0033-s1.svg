@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1032" cy="126" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L162,384 L417,382 L608,362 L864,371 L1105,333 L1200,306 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L258,340 L441,475 L593,480 L752,448 L917,353 L1089,375 L1200,438 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L223,428 L445,438 L622,469 L787,469 L999,416 L1200,492 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="386" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十三卷    喬彥杰一妾破家</text>
+<text x="90" y="516" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當時小二與周氏到家，見了高氏。高氏道：「你如</tspan><tspan x="90" dy="34">今回到家一處住了，如何帶小二回來？何不打發他</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="歧路燈">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="936" cy="182" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,431 L0,431 L140,397 L303,385 L511,309 L690,375 L905,402 L1057,347 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L210,357 L429,377 L610,429 L816,417 L974,389 L1183,379 L1200,458 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,594 L0,594 L204,465 L374,555 L590,398 L740,438 L900,411 L1070,477 L1200,393 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="451" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">歧路燈</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一〇四回　譚貢士籌兵煙火架　王都堂破敵普陀山</text>
+<text x="90" y="581" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">中國這一番大捷，日本這一場大敗，王都憲題奏上</tspan><tspan x="90" dy="34">去，詳述倭寇跳梁之橫，浙江被劫之慘，俞、湯二</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

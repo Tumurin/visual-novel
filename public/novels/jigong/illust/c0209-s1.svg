@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="766" cy="177" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L249,326 L490,308 L671,325 L828,408 L989,327 L1200,312 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,520 L0,520 L224,432 L438,477 L596,426 L826,429 L985,346 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L234,554 L456,466 L648,499 L831,479 L1031,432 L1200,537 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="460" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二百零九回</text>
+<text x="90" y="590" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">說韓棋釋放悟緣僧 鬥濟公暗施陰魂絛話說飛天鬼</tspan><tspan x="90" dy="34">石成瑞受濟公之託，趕緊來到藏珍塢。剛到這裏，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

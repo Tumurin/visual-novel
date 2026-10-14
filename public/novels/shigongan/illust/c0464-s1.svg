@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="950" cy="217" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,428 L0,428 L231,374 L413,334 L660,338 L883,387 L1138,401 L1200,373 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,479 L0,479 L188,361 L350,333 L542,334 L721,341 L921,366 L1149,374 L1200,352 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L185,517 L374,549 L536,494 L767,485 L983,550 L1165,392 L1200,492 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="422" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第464回　助曹勇王朗大施威　救天霸人傑重入寨</text>
+<text x="90" y="552" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說何路通一石子未能將那人打中，此時反被他一</tspan><tspan x="90" dy="34">槍刺來，只得復行進前，再來殺住。天霸從昨日到</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

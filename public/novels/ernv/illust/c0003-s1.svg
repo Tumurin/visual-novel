@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="兒女英雄傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="914" cy="140" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,442 L0,442 L171,319 L346,317 L526,306 L745,308 L939,317 L1172,335 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,479 L0,479 L176,435 L329,392 L512,379 L756,348 L897,381 L1057,436 L1200,337 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L140,451 L288,541 L511,490 L764,440 L963,397 L1181,530 L1200,462 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="394" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">兒女英雄傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三回     三千里孝子走風塵　一封書義僕托幼主</text>
+<text x="90" y="524" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">上回書交代的是安老爺因本管的河工兩次決口，那</tspan><tspan x="90" dy="34">河道總督平日又合他不對，便借此參了一本，「革</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

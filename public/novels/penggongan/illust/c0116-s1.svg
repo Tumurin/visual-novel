@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="918" cy="151" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,455 L0,455 L242,369 L408,317 L619,408 L821,302 L1036,330 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,491 L0,491 L205,444 L412,361 L600,330 L782,344 L960,407 L1200,462 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L207,452 L378,520 L522,393 L684,512 L855,476 L1052,487 L1200,496 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="417" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百二十三回  哭喪計捉拿石鑄  遇故友義結金蘭</text>
+<text x="90" y="547" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">石鑄與伍氏三雄便裝打扮，傢伙都放在車上，由三</tspan><tspan x="90" dy="34">仙莊起身，曉行夜住，飢餐渴飲，非止一日，來到</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

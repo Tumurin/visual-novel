@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="766" cy="198" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,456 L0,456 L183,304 L357,368 L532,399 L722,401 L943,400 L1132,338 L1200,358 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L158,450 L399,369 L545,396 L798,433 L991,390 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,569 L0,569 L172,416 L411,545 L659,488 L846,468 L1024,485 L1200,531 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="432" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二四回     萬壽山大仙留故友　五莊觀行者竊人參</text>
+<text x="90" y="562" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">三藏離鞍下馬，又見那山門左邊有一通碑，碑上有</tspan><tspan x="90" dy="34">十個大字，乃是「萬壽山福地，五莊觀洞天」。長</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

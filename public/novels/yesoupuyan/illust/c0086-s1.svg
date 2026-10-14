@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="763" cy="170" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,424 L0,424 L162,368 L376,370 L578,399 L792,337 L970,375 L1154,345 L1200,365 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,515 L0,515 L230,410 L376,369 L625,442 L782,351 L942,438 L1152,458 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,594 L0,594 L153,482 L398,549 L655,536 L833,380 L999,488 L1200,431 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="420" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十五回  宵光顯玉體知造物之化工  神便浸金鈴得除奸之祕鑰</text>
+<text x="90" y="550" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">又全道：“按院已將我誥敕密札搜去，緩則三日，</tspan><tspan x="90" dy="34">速則明日，就有奏本，必將我敕札同送，好坐實我</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

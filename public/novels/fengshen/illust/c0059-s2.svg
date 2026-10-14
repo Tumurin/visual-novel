@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="954" cy="179" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L171,385 L348,383 L567,358 L707,304 L919,385 L1121,399 L1200,407 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,498 L0,498 L223,335 L421,334 L662,433 L831,479 L978,454 L1200,454 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,577 L0,577 L160,525 L339,459 L499,468 L685,417 L850,447 L1109,468 L1200,438 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="402" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十九回    殷洪下山收四將</text>
+<text x="90" y="532" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說殷洪改了西周號色，打著成湯字號，一日到了</tspan><tspan x="90" dy="34">西岐，果見蘇侯大營紮在城下。殷洪命龐弘去令蘇</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="806" cy="199" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,409 L0,409 L170,408 L338,403 L485,347 L723,330 L977,388 L1137,359 L1200,305 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,512 L0,512 L161,414 L355,450 L599,331 L802,448 L1058,452 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L195,440 L410,476 L607,391 L843,415 L1070,506 L1200,459 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="384" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十八回　呼延贊大戰遼兵　李陵碑楊業死節</text>
+<text x="90" y="514" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">兩馬相交，二人戰上八十餘合，番將力怯，撥回馬</tspan><tspan x="90" dy="34">便走。贊驟騎追之。四下番兵散而復聚。贊回頭，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

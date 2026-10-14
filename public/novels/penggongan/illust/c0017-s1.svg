@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="977" cy="200" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,428 L0,428 L188,382 L344,388 L599,374 L763,350 L967,328 L1197,366 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,475 L0,475 L248,464 L414,381 L586,453 L831,434 L1015,336 L1162,330 L1200,453 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,552 L0,552 L213,560 L415,559 L561,484 L766,543 L953,547 L1200,534 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="430" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十七回  衆盜賊剪徑劫人  南霸天獨鬥羣寇</text>
+<text x="90" y="560" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">去不多時，那二位寨主帶手下人催馬來到樹林內，</tspan><tspan x="90" dy="34">看那位老英雄正把黑雄摔於馬下。李七侯催馬掄刀</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

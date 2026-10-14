@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="867" cy="230" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,429 L0,429 L144,386 L391,377 L608,377 L799,374 L974,410 L1196,406 L1200,372 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L170,350 L428,412 L637,411 L787,424 L993,385 L1152,414 L1200,340 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L202,491 L367,427 L571,405 L806,437 L986,465 L1200,534 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="391" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十三回    申公豹說反殷郊</text>
+<text x="90" y="521" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">南宮适看見大驚，忙進相府回令曰：「啟丞相：異</tspan><tspan x="90" dy="34">事非常！」子牙問曰：「有甚話說？」南宮适曰：</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="944" cy="197" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L244,379 L428,358 L622,375 L787,400 L972,324 L1139,307 L1200,314 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L242,445 L410,389 L630,399 L873,445 L1097,339 L1200,470 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,597 L0,597 L258,538 L415,417 L673,539 L909,429 L1059,502 L1200,480 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="452" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十回：猛張飛智取瓦口隘，老黃忠計奪天蕩山</text>
+<text x="90" y="582" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當日張郃引軍前進，正遇雷同。戰不數合，張郃敗</tspan><tspan x="90" dy="34">走，雷同趕來。兩軍齊出，截斷回路。張郃復回，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

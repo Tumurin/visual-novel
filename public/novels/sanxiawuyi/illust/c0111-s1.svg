@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="964" cy="227" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,457 L0,457 L203,313 L432,371 L684,313 L824,409 L1020,385 L1200,349 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,513 L0,513 L153,440 L405,463 L586,422 L841,446 L1041,441 L1182,371 L1200,346 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,590 L0,590 L150,386 L363,442 L584,456 L766,539 L952,512 L1180,531 L1200,496 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一一一回     定日盜簪逢場作戲　先期祝壽改扮喬妝</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說丁蔣陸魯四位將白玉堂骨殖盜出，又將埋葬之</tspan><tspan x="90" dy="34">處仍然堆起土丘。收拾已畢，才待回身，只聽那邊</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

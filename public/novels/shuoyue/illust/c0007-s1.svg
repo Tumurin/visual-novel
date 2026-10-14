@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="992" cy="199" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L221,348 L421,323 L570,359 L808,393 L1030,403 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,529 L0,529 L212,341 L469,425 L613,418 L832,367 L1092,390 L1200,376 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,582 L0,582 L167,462 L357,499 L609,545 L774,481 L1008,416 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="415" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七回　夢飛虎徐仁薦賢索賄賂洪先革職“卻說那人走上前來，作個揖，便說道：“小人乃是這裏村中一個里長的便是。</text>
+<text x="90" y="545" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，嶽大爺騎馬進城，來到內黃縣衙門內。門史</tspan><tspan x="90" dy="34">進內通報，知縣說一聲：“請進來相見。”門吏答</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

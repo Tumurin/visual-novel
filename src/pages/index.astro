@@ -1,0 +1,116 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="古典小說書庫" description="中國古典小說線上閱讀書庫，極簡書卷氣的閱讀體驗。">
+  <main id="main-content" class="mx-auto max-w-3xl px-6 py-14 sm:py-24">
+    <header class="mb-12 sm:mb-16">
+      <h1 class="text-3xl font-bold tracking-[0.15em] sm:text-4xl">古典小說書庫</h1>
+      <p class="mt-4 text-sm leading-7 text-muted">
+        墨色與米紙之間，重讀中國古典長篇。
+      </p>
+      <input
+        id="search"
+        type="search"
+        placeholder="搜尋書名或作者…"
+        aria-label="搜尋書名或作者"
+        class="mt-8 w-full border-0 border-b border-line bg-transparent py-3 text-[15px] tracking-wide focus:border-fg focus:outline-none"
+      />
+    </header>
+
+    <p id="status" class="py-16 text-center text-sm tracking-widest text-muted">載入中…</p>
+
+    <div id="empty" hidden class="py-20 text-center">
+      <p class="text-xl font-semibold tracking-[0.3em] text-muted">書庫建置中</p>
+      <p class="mt-4 text-sm leading-7 text-muted">藏書正在整理，請稍後再來。</p>
+    </div>
+
+    <p id="no-result" hidden class="py-16 text-center text-sm tracking-widest text-muted">
+      找不到相符的書籍
+    </p>
+
+    <div id="list"></div>
+  </main>
+
+  <script>
+    interface ChapterMeta {
+      n: number;
+      title: string;
+      chars: number;
+    }
+    interface NovelMeta {
+      slug: string;
+      title: string;
+      author: string;
+      dynasty: string;
+      description: string;
+      chapterCount: number;
+      totalChars: number;
+      chapters: ChapterMeta[];
+    }
+
+    const listEl = document.getElementById("list") as HTMLDivElement;
+    const statusEl = document.getElementById("status") as HTMLParagraphElement;
+    const emptyEl = document.getElementById("empty") as HTMLDivElement;
+    const noResultEl = document.getElementById("no-result") as HTMLParagraphElement;
+    const searchEl = document.getElementById("search") as HTMLInputElement;
+
+    let novels: NovelMeta[] = [];
+
+    function esc(s: string): string {
+      return s.replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
+    }
+
+    function fmtWan(chars: number): string {
+      const w = chars / 10000;
+      return w >= 100 ? String(Math.round(w)) : String(Math.round(w * 10) / 10);
+    }
+
+    function render(items: NovelMeta[]): void {
+      statusEl.hidden = true;
+      noResultEl.hidden = items.length > 0;
+      listEl.innerHTML = items
+        .map(
+          (v) => `
+        <a href="/read?n=${encodeURIComponent(v.slug)}&c=1"
+           class="group block border-t border-line py-7 first:border-t-0 sm:py-8">
+          <div class="flex items-baseline justify-between gap-6">
+            <h2 class="text-2xl font-semibold tracking-wide text-balance transition-colors group-hover:text-muted sm:text-[1.7rem]">${esc(v.title)}</h2>
+            <span class="shrink-0 text-xs tracking-wider text-muted">${v.chapterCount} 回・約 ${fmtWan(v.totalChars)} 萬字</span>
+          </div>
+          <p class="mt-2 text-sm tracking-wider text-muted">${esc(v.author)}・${esc(v.dynasty)}</p>
+          <p class="mt-3 max-w-xl text-[15px] leading-7 text-fg/80">${esc(v.description)}</p>
+        </a>`
+        )
+        .join("");
+    }
+
+    function applyFilter(): void {
+      const q = searchEl.value.trim().toLowerCase();
+      if (!q) return render(novels);
+      render(
+        novels.filter(
+          (v) =>
+            v.title.toLowerCase().includes(q) || v.author.toLowerCase().includes(q)
+        )
+      );
+    }
+
+    async function boot(): Promise<void> {
+      try {
+        const res = await fetch("/novels/catalog.json");
+        if (!res.ok) throw new Error(String(res.status));
+        const data = (await res.json()) as NovelMeta[];
+        if (!Array.isArray(data) || data.length === 0) throw new Error("empty");
+        novels = data;
+        render(novels);
+      } catch {
+        statusEl.hidden = true;
+        emptyEl.hidden = false;
+      }
+    }
+
+    searchEl.addEventListener("input", applyFilter);
+    boot();
+  </script>
+</Base>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="768" cy="207" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,438 L0,438 L200,387 L412,393 L643,345 L839,361 L1025,402 L1188,312 L1200,365 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,508 L0,508 L227,423 L482,418 L672,459 L853,348 L1069,419 L1200,472 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L209,484 L452,395 L682,495 L923,528 L1095,436 L1200,429 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="383" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十九回　擒傅瑕厲公復國　殺子頹惠王反正</text>
+<text x="90" y="513" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">先年，曾與巴君同伐申國，而驚擾巴師，巴君怒，</tspan><tspan x="90" dy="34">遂襲那處，克之，守將閻敖遊湧水而遁，楚王殺閻</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

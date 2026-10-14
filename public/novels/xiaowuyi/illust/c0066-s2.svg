@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="小五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="865" cy="210" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,434 L0,434 L215,385 L409,358 L620,328 L840,361 L1028,350 L1200,371 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,503 L0,503 L199,467 L448,464 L596,442 L845,373 L1011,369 L1151,348 L1200,447 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L211,497 L422,498 L566,410 L766,521 L995,386 L1148,559 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">小五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十六回盧珍假充小義士張英被哄錯磕頭</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">故此將你讓到這邊。論錯，是哥哥你錯了，也搭着</tspan><tspan x="90" dy="34">過賣沒說明白。你也該想一想，你也該看一看，就</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

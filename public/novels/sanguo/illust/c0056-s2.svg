@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="874" cy="219" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,460 L0,460 L168,409 L317,359 L516,379 L688,332 L914,367 L1149,358 L1200,304 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L249,406 L424,357 L568,379 L824,474 L1069,451 L1200,411 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L170,497 L382,450 L604,508 L850,476 L1024,458 L1200,445 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="430" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十六回：曹操大宴銅雀臺，孔明三氣周公瑾</text>
+<text x="90" y="560" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">魯肅是個寬仁長者，見玄德如此哀痛，只得應允。</tspan><tspan x="90" dy="34">玄德、孔明拜謝。宴畢，送魯肅下船。逕到柴桑，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="小五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="726" cy="173" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L185,408 L384,388 L559,367 L816,309 L976,400 L1200,358 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,494 L0,494 L237,417 L395,428 L643,363 L806,352 L1025,460 L1200,435 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,578 L0,578 L238,442 L481,387 L643,516 L819,527 L972,558 L1166,505 L1200,505 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="385" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">小五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十八回小爺思念杯中物老者指告賣酒人</text>
+<text x="90" y="515" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說徐良在外邊問自然和尚，不說；拿刀威嚇帶傷</tspan><tspan x="90" dy="34">的小和尚，倒是有一得一，將實話全部說出來了，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

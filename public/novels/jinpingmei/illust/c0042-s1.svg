@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="952" cy="132" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L258,363 L505,365 L750,351 L953,359 L1118,349 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L245,411 L425,420 L652,432 L844,342 L1054,469 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L144,381 L286,441 L545,457 L706,488 L925,393 L1183,549 L1200,511 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="387" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十二回　逞豪華門前放煙火　賞元宵樓上醉花燈</text>
+<text x="90" y="517" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一丈五高花樁，四周下山棚熱鬧。最高處一隻仙鶴</tspan><tspan x="90" dy="34">，口裡銜著一封丹書，乃是一枝起火，一道寒光，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

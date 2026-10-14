@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1035" cy="139" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,412 L0,412 L240,383 L397,303 L577,324 L744,337 L987,344 L1200,314 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,483 L0,483 L152,348 L344,333 L536,442 L731,384 L913,400 L1156,385 L1200,450 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L230,520 L478,406 L682,394 L908,536 L1121,483 L1200,490 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="429" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十一回　伍尚志火牛衝敵陣鮑方祖贈寶破妖人</text>
+<text x="90" y="559" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">那王佐來見楊幺，說：“火燒君山，又被岳飛逃去</tspan><tspan x="90" dy="34">。”楊幺道：“你領了家小回去，記你功勞便了。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1001" cy="123" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,454 L0,454 L200,410 L381,364 L638,400 L800,351 L979,339 L1141,344 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,491 L0,491 L165,400 L408,341 L663,467 L899,358 L1093,330 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L191,531 L392,559 L602,542 L844,549 L1009,419 L1200,451 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="396" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十九回    姜子牙歸國封神</text>
+<text x="90" y="526" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">「太上無極混元教主元始天尊敕曰：嗚呼！仙凡路</tspan><tspan x="90" dy="34">迴，非厚培根行豈能通；神鬼途分，豈諂媚奸邪所</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

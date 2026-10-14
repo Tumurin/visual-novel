@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="730" cy="239" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,450 L0,450 L203,339 L343,366 L486,343 L676,319 L819,385 L962,380 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L156,398 L396,447 L592,407 L834,345 L1037,339 L1200,353 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,597 L0,597 L190,535 L386,499 L558,484 L727,466 L922,421 L1104,473 L1200,542 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="437" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十八回　質平原秦王索魏齊　敗長平白起坑趙卒</text>
+<text x="90" y="567" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">趙括將廉頗約束，盡行更改，軍壘合併成大營。時</tspan><tspan x="90" dy="34">馮亭在軍中，固諫不聽，括又以自己所帶將士易去</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

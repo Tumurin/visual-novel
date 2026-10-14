@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="996" cy="204" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,425 L0,425 L213,346 L353,346 L551,390 L708,353 L885,331 L1082,391 L1200,356 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L156,437 L381,446 L624,415 L783,340 L939,368 L1129,467 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,589 L0,589 L199,514 L426,427 L607,463 L812,408 L1001,434 L1200,425 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="409" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五○回     情亂性從因愛慾　神昏心動遇魔頭</text>
+<text x="90" y="539" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">原來那座樓房果是妖精點化的，終日在此拿人。他</tspan><tspan x="90" dy="34">在洞裏正坐，忽聞得怨恨之聲，急出門來看，果見</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

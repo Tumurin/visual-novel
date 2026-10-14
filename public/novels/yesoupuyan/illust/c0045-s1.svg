@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="854" cy="136" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,428 L0,428 L257,378 L454,301 L675,372 L884,375 L1032,379 L1200,368 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L241,359 L478,438 L680,433 L878,363 L1036,453 L1200,366 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,564 L0,564 L251,420 L462,551 L698,446 L950,460 L1153,455 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="431" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十五回  虎口行奸贗虎惡於真虎　僧寮放火生僧燒作熟僧</text>
+<text x="90" y="561" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">素臣急看，卻是匡無外主僕二人奮勇殺入，心中這</tspan><tspan x="90" dy="34">一喜，不覺精神頓長，氣力尤加，拍馬揮刀接應。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

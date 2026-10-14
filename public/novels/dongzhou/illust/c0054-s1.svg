@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="961" cy="229" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,438 L0,438 L221,363 L420,310 L593,387 L735,375 L875,345 L1134,371 L1200,311 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,520 L0,520 L223,394 L428,448 L673,344 L818,376 L965,339 L1200,403 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,592 L0,592 L209,491 L391,495 L643,549 L895,505 L1150,526 L1200,460 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="393" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十四回　荀林父縱屬亡師　孟侏儒託優悟主</text>
+<text x="90" y="523" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">鞏朔接住嬰齊廝殺，約鬥二十餘合，不敢戀戰，保</tspan><tspan x="90" dy="34">著士會，徐徐而走。嬰齊不捨，再復追來，前面炮</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

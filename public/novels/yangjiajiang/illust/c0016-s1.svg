@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="736" cy="223" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,444 L0,444 L165,381 L329,352 L487,339 L670,331 L877,384 L1086,302 L1200,302 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,500 L0,500 L207,351 L457,474 L637,382 L825,480 L1085,477 L1200,476 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,588 L0,588 L222,491 L403,427 L550,397 L728,532 L967,503 L1149,510 L1200,558 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="415" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十六回　太宗駕幸五臺山　淵平戰死幽州城</text>
+<text x="90" y="545" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">淵平既射死番王，閃出駕外，厲聲叫曰：“吾乃楊</tspan><tspan x="90" dy="34">令公之子淵平是也！有勇者來戰。”番兵大驚。激</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="761" cy="217" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,405 L0,405 L171,394 L417,341 L593,350 L794,316 L945,385 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,494 L0,494 L238,418 L454,419 L631,438 L799,452 L985,388 L1200,457 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L172,450 L367,551 L617,499 L833,450 L980,408 L1127,542 L1200,526 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="459" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第221回　方世傑驚走黃天霸　賽姜維誤入望山堂</text>
+<text x="90" y="589" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說飛駝子薛豹把那鄧龍壓在假山洞內，心中大喜</tspan><tspan x="90" dy="34">，就上來跑回去。這假山做的靈巧非常。此時方世</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

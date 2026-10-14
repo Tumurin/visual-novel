@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="939" cy="227" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,418 L0,418 L185,317 L347,338 L514,403 L693,373 L941,300 L1123,336 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L175,333 L374,423 L550,371 L774,465 L1015,340 L1160,345 L1200,445 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L179,474 L335,426 L494,446 L688,542 L894,392 L1051,400 L1200,475 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="462" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十六回  論英雄激惱黃三太  賭閒氣搶劫補秤銀</text>
+<text x="90" y="592" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說黃三太同大衆在廳房擺宴，忽見家人手執一個</tspan><tspan x="90" dy="34">全帖呈上。黃三太一觀，見上寫：“折敬紋銀二百</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

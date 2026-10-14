@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世恆言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="905" cy="155" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L199,370 L392,369 L629,397 L829,372 L971,342 L1181,365 L1200,380 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L242,478 L482,384 L682,374 L906,442 L1047,420 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L250,560 L483,384 L721,418 L866,553 L1016,438 L1178,480 L1200,504 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="464" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世恆言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十三卷</text>
+<text x="90" y="594" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">到得劉官人門首，好一場熱鬧。小娘子入去看時，</tspan><tspan x="90" dy="34">只見劉官人斧劈倒在地死了，床上十五賞錢分文也</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

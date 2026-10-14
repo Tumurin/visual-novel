@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1001" cy="174" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,419 L0,419 L257,315 L514,410 L654,356 L838,327 L988,398 L1137,369 L1200,343 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,524 L0,524 L185,442 L382,442 L617,480 L832,370 L1066,448 L1200,395 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L151,529 L298,396 L483,509 L686,427 L912,478 L1125,554 L1200,503 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="447" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十回　表精忠墓頂加封證因果大鵬歸位</text>
+<text x="90" y="577" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">先說那嶽雷追殺金兵一陣，鳴金收軍。陸文龍擒得</tspan><tspan x="90" dy="34">哈迷蚩來獻，關鈴擒得金將白眼骨都來獻，伍連取</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

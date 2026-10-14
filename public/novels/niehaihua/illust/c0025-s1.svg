@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="孽海花">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="742" cy="154" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,408 L0,408 L170,384 L393,398 L578,304 L737,386 L952,359 L1185,305 L1200,315 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,503 L0,503 L156,337 L316,454 L508,401 L659,382 L873,366 L1128,336 L1200,390 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L260,424 L438,536 L611,514 L831,457 L1072,413 L1200,553 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">孽海花</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十五回    疑夢疑真司農訪鶴　七擒七縱巡撫吹牛</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">那時，與日本宣戰的明諭早發布了。日公使匡次芳</tspan><tspan x="90" dy="34">也下旗回國了。陸軍方面，言、魯、馬、左四路人</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

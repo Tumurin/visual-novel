@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="863" cy="210" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L211,342 L397,322 L605,314 L753,356 L1013,302 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,491 L0,491 L189,346 L439,432 L593,369 L853,406 L1100,363 L1200,390 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L160,557 L340,555 L578,409 L794,395 L1048,444 L1200,469 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二二回     八戒大戰流沙河　木叉奉法收悟淨</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">這一場，來來往往，鬥經三十回合，不見強弱。八</tspan><tspan x="90" dy="34">戒又使個佯輸計，拖了鈀走。那怪隨後又趕來，擁</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

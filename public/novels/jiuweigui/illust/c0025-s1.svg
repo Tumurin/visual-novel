@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="九尾龜">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="865" cy="199" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L218,378 L423,328 L678,384 L931,302 L1088,352 L1200,354 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,502 L0,502 L258,336 L514,464 L703,413 L919,421 L1155,417 L1200,408 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,570 L0,570 L254,559 L418,460 L655,400 L883,396 L1058,535 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="411" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">九尾龜</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十四回　邱公子狠心懲愛妾　林黛玉拼命鬧華堂</text>
+<text x="90" y="541" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">黛玉見邱八反了麪皮，心上一毫不怕，卻自己心中</tspan><tspan x="90" dy="34">想道：若不與他這一個決裂，那裏撒手得開？這樣</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

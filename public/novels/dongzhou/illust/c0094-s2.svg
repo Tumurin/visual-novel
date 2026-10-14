@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="710" cy="167" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,419 L0,419 L165,353 L345,355 L560,410 L731,381 L957,302 L1107,394 L1200,305 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L174,363 L334,371 L520,432 L720,404 L926,469 L1162,432 L1200,449 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,587 L0,587 L222,560 L380,560 L568,464 L820,501 L966,414 L1171,447 L1200,484 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十四回　馮諼彈鋏客孟嘗　齊王糾兵伐桀宋</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">是時，魏昭王與韓釐王奉周王之命，“合縱”伐秦</tspan><tspan x="90" dy="34">，秦使白起將兵迎之，大戰於伊闕，斬首二十四萬</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

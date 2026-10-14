@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="小五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="731" cy="197" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,454 L0,454 L144,313 L354,303 L539,360 L712,370 L923,319 L1116,316 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L147,364 L323,464 L524,392 L672,370 L818,455 L999,427 L1177,334 L1200,401 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,558 L0,558 L227,456 L484,532 L686,473 L930,551 L1120,483 L1200,472 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="427" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">小五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十七回結金蘭五人同心合意在破廟艾虎搭救賓朋</text>
+<text x="90" y="557" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">艾虎回店，香案已給擺齊，大家一序年庚，芸生大</tspan><tspan x="90" dy="34">爺，霹靂鬼二爺，徐良三爺，盧珍行四，艾虎是大</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="991" cy="123" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L239,340 L479,309 L673,368 L894,321 L1130,323 L1200,395 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,483 L0,483 L144,436 L389,395 L563,412 L784,364 L1003,439 L1200,358 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,581 L0,581 L163,542 L339,471 L518,497 L773,415 L979,421 L1200,520 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="394" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十六回　雪娥唆打陳敬濟　金蓮解渴王潮兒</text>
+<text x="90" y="524" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">到次日，飯時已後，月娘埋伏了丫鬟媳婦七八個人</tspan><tspan x="90" dy="34">，各拿短棍棒槌。使小廝來安兒請進陳敬濟來後邊</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

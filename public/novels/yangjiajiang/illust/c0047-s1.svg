@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="799" cy="200" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,432 L0,432 L193,395 L356,338 L528,354 L776,328 L1035,310 L1200,373 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,502 L0,502 L185,365 L361,477 L548,477 L801,391 L976,381 L1124,449 L1200,333 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,573 L0,573 L166,499 L367,526 L562,386 L769,387 L996,541 L1200,449 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="434" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十七回　束天神大戰宋將　百花女錘打張達</text>
+<text x="90" y="564" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">哨馬報入殷元帥軍中，道知森羅、黑水二國所部，</tspan><tspan x="90" dy="34">大勝宋兵一陣，斬其戰將二員。殷奇大喜，與三太</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

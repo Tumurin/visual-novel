@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="809" cy="125" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,444 L0,444 L165,302 L402,358 L634,312 L877,389 L1037,406 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,486 L0,486 L211,367 L463,362 L660,476 L877,417 L1025,438 L1170,423 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,560 L0,560 L226,512 L460,498 L671,475 L847,448 L1033,541 L1200,489 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="395" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第142回　酒肆聞霸道名姓　路遇得惡徒真情</text>
+<text x="90" y="525" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">纔要進館會錢起身，又聽那二人講話。總是施公目</tspan><tspan x="90" dy="34">下合該有場大禍，不由的又要探聽冤家頭的惡處，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

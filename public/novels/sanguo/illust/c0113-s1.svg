@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="714" cy="192" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,452 L0,452 L177,343 L428,364 L614,317 L802,378 L1021,364 L1200,326 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,525 L0,525 L141,427 L363,415 L605,362 L757,346 L931,469 L1071,335 L1200,467 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,560 L0,560 L217,465 L382,434 L540,521 L752,426 L934,381 L1152,457 L1200,545 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="389" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一一三回：丁奉定計斬孫綝，姜維鬥陣破鄧艾</text>
+<text x="90" y="519" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說王含、蔣斌因立寨未定，恐魏兵來劫寨，不散</tspan><tspan x="90" dy="34">解甲而寢。忽聞中軍大亂，急焯兵器上的馬時，寨</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

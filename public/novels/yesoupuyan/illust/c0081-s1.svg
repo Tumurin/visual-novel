@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="962" cy="156" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,457 L0,457 L149,394 L344,346 L596,338 L814,365 L993,328 L1200,351 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,526 L0,526 L221,469 L390,343 L577,361 L745,413 L898,475 L1096,480 L1200,411 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L254,461 L513,461 L741,470 L891,458 L1118,390 L1200,417 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十回  婚事初籌帚臣早籌兵事　大蛇未弄鐵丐先弄小蛇</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">素臣道：“靳賊、景王大勢相連，而互相猜忌；屠</tspan><tspan x="90" dy="34">、釣兩島，與總兵武國憲，皆靳賊陰制景王者，其</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

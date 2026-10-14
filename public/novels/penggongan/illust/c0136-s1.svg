@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="797" cy="202" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,441 L0,441 L252,399 L497,343 L660,327 L826,318 L994,370 L1156,321 L1200,348 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,486 L0,486 L161,364 L317,350 L566,373 L733,433 L961,469 L1200,456 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,575 L0,575 L148,517 L368,548 L528,560 L766,435 L947,430 L1127,407 L1200,492 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="395" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百四十三回  探虎穴險遭不測  入水牢英雄被擒</text>
+<text x="90" y="525" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">霍秉齡穿上衣服，暗帶單刀，出了呂祖廟，一直往</tspan><tspan x="90" dy="34">北走了二十多里，便到了紅龍澗。這個地勢是：一</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

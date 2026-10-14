@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="737" cy="221" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,441 L0,441 L222,372 L440,357 L652,367 L803,371 L1000,404 L1148,379 L1200,318 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,517 L0,517 L142,365 L344,390 L508,351 L678,435 L841,396 L999,400 L1185,379 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,575 L0,575 L231,544 L380,449 L584,414 L815,448 L1041,437 L1194,399 L1200,459 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="450" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十一回  義士奮勇要金牌  山寇安排使巧計</text>
+<text x="90" y="580" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">不多時，只聽得銅鑼響亮，從山上下來了六十名嘍</tspan><tspan x="90" dy="34">兵，都是青布手巾包頭，身穿青布褲褂，白襪，打</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

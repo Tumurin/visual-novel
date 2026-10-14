@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="787" cy="126" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,402 L0,402 L205,318 L376,376 L559,337 L709,309 L892,381 L1075,395 L1200,341 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L218,440 L433,336 L682,463 L858,368 L1095,420 L1200,351 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L167,495 L318,494 L564,527 L805,500 L947,495 L1189,486 L1200,478 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="392" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第270回　淫女狠心冤魂不散　姦夫毒手弱女何辜</text>
+<text x="90" y="522" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">他哪裏肯依？小婦人也去求他，他也不睬。復又撕</tspan><tspan x="90" dy="34">了塊布，將丈夫嘴塞住，就從身上掏出一根釘來。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

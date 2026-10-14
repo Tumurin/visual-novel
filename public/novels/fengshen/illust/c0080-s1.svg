@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="887" cy="123" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L191,387 L434,322 L629,401 L797,326 L1020,335 L1193,369 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,488 L0,488 L175,383 L393,429 L583,349 L807,364 L957,389 L1169,420 L1200,341 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L192,391 L345,499 L516,505 L720,539 L891,530 L1101,423 L1200,546 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="458" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十回    楊任下山破瘟司</text>
+<text x="90" y="588" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說呂岳將子牙困於陣中，復出陣前大呼曰：「姜</tspan><tspan x="90" dy="34">尚已絕於吾陣，叫姬發早早受死！」武王在轅門聞</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="738" cy="182" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,423 L0,423 L204,330 L369,374 L595,362 L826,392 L1064,360 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,520 L0,520 L186,418 L429,454 L588,361 L748,462 L909,378 L1065,386 L1200,477 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L260,414 L457,540 L619,429 L806,510 L950,496 L1120,439 L1200,509 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十二回　高懷德幽州大戰　宋太宗班師還汴</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">正在危急之際，適楊七郎單騎殺入，見延昭曰：“</tspan><tspan x="90" dy="34">宋兵戰陣已亂，哥哥何不急保主上而走？”延昭曰</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

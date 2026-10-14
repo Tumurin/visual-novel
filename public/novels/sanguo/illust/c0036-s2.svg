@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="891" cy="227" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,451 L0,451 L158,328 L399,332 L548,384 L701,370 L947,310 L1171,310 L1200,343 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,523 L0,523 L231,357 L371,336 L579,474 L784,444 L937,366 L1088,463 L1200,333 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,578 L0,578 L216,524 L361,504 L610,465 L838,433 L1098,523 L1200,530 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="382" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十六回：玄德用計襲樊城，元直走馬薦諸葛</text>
+<text x="90" y="512" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">言訖，取石硯便打曹操。操大怒，叱武士執徐母出</tspan><tspan x="90" dy="34">，將斬之。程昱急止之。入諫操曰：「徐母觸忤丞</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="999" cy="212" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,422 L0,422 L246,355 L411,401 L624,394 L856,324 L1009,367 L1200,396 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,472 L0,472 L236,440 L384,447 L588,470 L777,377 L1037,335 L1200,345 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,556 L0,556 L155,474 L386,423 L533,403 L691,431 L880,516 L1043,442 L1200,502 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="380" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百零三回  兩日毀十門龍燔於峒　一夜破兩城浚位於塗</text>
+<text x="90" y="510" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">岑浚方始轉憂爲喜。因密諭丹良，一面專城備守。</tspan><tspan x="90" dy="34">到月上時，門軍來稟：“城外官兵拔營盡去，一個</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

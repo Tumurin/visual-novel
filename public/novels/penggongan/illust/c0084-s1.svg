@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="801" cy="205" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,415 L0,415 L173,309 L401,328 L550,356 L746,322 L943,398 L1128,402 L1200,333 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L194,420 L389,472 L537,352 L731,424 L909,462 L1111,474 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L179,493 L386,490 L590,545 L739,527 L929,457 L1084,528 L1200,550 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="452" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十四回  採花蜂大鬧上蔡縣  蘇永祿巡捕惡淫賊</text>
+<text x="90" y="582" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">書中交代：勝奎所見的那少年之人，乃是慶陽府北</tspan><tspan x="90" dy="34">尹家寨的人氏，姓尹名亮，外號人稱採花蜂。他父</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="花月痕">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="821" cy="148" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,408 L0,408 L169,389 L357,353 L534,387 L750,370 L920,322 L1169,408 L1200,309 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,523 L0,523 L258,376 L435,332 L614,385 L791,400 L1038,338 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L199,399 L345,445 L592,501 L769,432 L988,538 L1152,484 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="439" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">花月痕</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四回　短衣匹馬歲暮從軍　火樹銀花元宵奏凱</text>
+<text x="90" y="569" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">看官，你道顏、林二將，是何等樣人？顏參將名超</tspan><tspan x="90" dy="34">，系武進士出身；林遊擊名勇，系營伍出身。顏善</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

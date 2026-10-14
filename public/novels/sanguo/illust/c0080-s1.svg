@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="787" cy="215" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L143,388 L347,364 L598,328 L779,340 L920,321 L1163,312 L1200,364 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L256,387 L479,407 L674,432 L854,478 L1075,345 L1200,373 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L186,430 L391,551 L625,450 L849,530 L1012,414 L1200,447 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="404" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十回：曹丕廢帝篡炎劉，漢王正位續大統</text>
+<text x="90" y="534" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">帝大驚，拂袖而起。王朗以目視華歆。歆縱步向前</tspan><tspan x="90" dy="34">，扯住龍袍，變色而言曰：「許與不許，早發一言</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

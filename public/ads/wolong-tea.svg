@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="臥龍茶廣告">
+<defs>
+  <linearGradient id="tea" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f3ead8"/><stop offset="1" stop-color="#e0d0b0"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#tea)"/>
+<circle cx="600" cy="340" r="250" fill="#c9b48a" opacity="0.45"/>
+<g transform="translate(470,240)">
+  <path d="M130,20 C60,60 20,140 30,220 C90,180 150,120 170,40 Z" fill="#8a9a5b"/>
+  <path d="M130,20 C200,60 240,140 230,220 C170,180 110,120 90,40 Z" fill="#6b7f43" opacity="0.9"/>
+  <rect x="118" y="200" width="24" height="120" rx="10" fill="#5a3b22"/>
+</g>
+<g transform="translate(700,420)">
+  <path d="M0,0 h140 l-16,90 h-108 Z" fill="#3d5a45"/>
+  <path d="M14,12 h112 l-10,66 h-92 Z" fill="#c98f3d"/>
+  <path d="M140,14 q46,10 0,64" fill="none" stroke="#3d5a45" stroke-width="12"/>
+  <path d="M40,-24 q10,-18 0,-34 M70,-24 q10,-18 0,-34 M100,-24 q10,-18 0,-34" stroke="#8a9a5b" stroke-width="6" fill="none" opacity="0.8"/>
+</g>
+<text x="80" y="130" font-family="serif" font-size="72" font-weight="bold" fill="#3d5a45">臥龍茶</text>
+<text x="80" y="205" font-family="serif" font-size="34" fill="#5c6e52">運籌帷幄之中，先泡一杯臥龍</text>
+<text x="80" y="255" font-family="serif" font-size="28" fill="#7a8a6e">三顧茅廬，不如三思茶湯</text>
+<g transform="translate(80,560)">
+  <rect width="260" height="64" rx="32" fill="#3d5a45"/>
+  <text x="130" y="42" text-anchor="middle" font-family="serif" font-size="30" fill="#f3ead8">品味出山</text>
+</g>
+<text x="1120" y="640" text-anchor="end" font-family="serif" font-size="20" fill="#a3987c">本頁面為示範廣告</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="老殘遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="971" cy="123" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,439 L0,439 L247,308 L433,311 L664,379 L844,387 L1027,348 L1180,373 L1200,318 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,479 L0,479 L256,426 L411,402 L594,450 L787,383 L964,385 L1160,353 L1200,405 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,566 L0,566 L193,556 L401,491 L621,516 L786,390 L944,532 L1151,390 L1200,509 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="461" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">老殘遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五回　烈婦有心殉節　鄉人無意逢殃</text>
+<text x="90" y="591" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">「玉大人笑道：『你們倒好，忽然的慈悲起來了！</tspan><tspan x="90" dy="34">你會慈悲於學禮，你就不會慈悲你主人嗎？這人無</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

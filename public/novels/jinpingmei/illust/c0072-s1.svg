@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1011" cy="135" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,437 L0,437 L158,376 L387,397 L588,329 L806,345 L1028,330 L1169,334 L1200,311 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,530 L0,530 L258,358 L420,421 L590,366 L753,452 L919,392 L1103,390 L1200,475 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,601 L0,601 L212,461 L433,460 L582,453 L841,535 L1082,452 L1200,544 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="398" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十二回　潘金蓮摳打如意兒　王三官義拜西門慶</text>
+<text x="90" y="528" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">吃到二更時分，西門慶已帶半酣，方纔起身，賞了</tspan><tspan x="90" dy="34">小優兒並廚役，作辭回家。到家逕往金蓮房中。原</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

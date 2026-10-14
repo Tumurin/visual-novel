@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="991" cy="171" r="53" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,419 L0,419 L213,353 L442,329 L663,379 L881,396 L1131,380 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,515 L0,515 L192,467 L355,398 L518,357 L682,457 L831,351 L997,453 L1200,456 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,594 L0,594 L213,531 L403,417 L563,506 L753,455 L923,518 L1098,501 L1200,527 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="403" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十四回　石將軍村店寄書　小李廣梁山射鴈</text>
+<text x="90" y="533" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">那兩個壯士便不鬥，都縱馬跑來，直到宋江、花榮</tspan><tspan x="90" dy="34">馬前，就馬上欠身聲喏，都道：「願求神箭將軍大</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

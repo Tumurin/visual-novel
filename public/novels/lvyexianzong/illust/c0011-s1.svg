@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="綠野仙蹤">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="758" cy="168" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,432 L0,432 L198,375 L445,408 L612,338 L841,406 L988,359 L1149,366 L1200,396 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L206,370 L458,377 L670,333 L869,449 L1013,363 L1200,422 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,605 L0,605 L228,406 L402,505 L608,532 L857,533 L1051,485 L1200,484 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="416" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">綠野仙蹤</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十一回仗仙劍柳社收厲鬼試雷珠佛殿誅妖狐</text>
+<text x="90" y="546" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">止砍了五六株，到被他一連大鬧了七八夜，如今連</tspan><tspan x="90" dy="34">一枝柳條也不敢砍了。“於冰聽罷，便不再問。睡</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

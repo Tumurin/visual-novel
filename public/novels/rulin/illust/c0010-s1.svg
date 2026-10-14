@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="儒林外史">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="735" cy="144" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,458 L0,458 L211,409 L425,303 L590,321 L730,337 L936,326 L1100,307 L1200,384 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,498 L0,498 L143,405 L376,331 L602,432 L779,402 L1034,424 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L256,548 L423,405 L673,481 L920,450 L1171,401 L1200,532 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="434" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">儒林外史</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十回　匡超人高興長安道　牛布衣客死蕪湖關</text>
+<text x="90" y="564" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">不想一日，牛布衣病倒了，請醫生來，一連吃了几</tspan><tspan x="90" dy="34">十帖藥，總不見效。那日，牛布衣請老和尚進房來</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

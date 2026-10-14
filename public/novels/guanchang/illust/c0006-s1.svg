@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="官場現形記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="949" cy="201" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,452 L0,452 L236,357 L441,362 L676,313 L871,410 L1059,338 L1200,309 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L249,337 L414,377 L633,354 L813,445 L1017,470 L1189,422 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L257,396 L399,451 L542,537 L710,387 L896,515 L1132,426 L1200,552 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="390" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">官場現形記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六回    急張羅州官接巡撫　少訓練副將降都司</text>
+<text x="90" y="520" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">閑話休題。但說那撫院轎子上得演武廳，大小官員</tspan><tspan x="90" dy="34">接著。撫院下轎，先到後面歇息。營務處上洪大人</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

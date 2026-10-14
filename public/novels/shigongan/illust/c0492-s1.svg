@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="905" cy="139" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,442 L0,442 L228,326 L476,356 L706,402 L952,302 L1141,303 L1200,352 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,508 L0,508 L241,381 L471,430 L721,457 L965,397 L1113,470 L1200,371 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,574 L0,574 L253,438 L439,473 L590,427 L753,430 L936,495 L1165,420 L1200,420 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="444" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第492回　投王朗巧遇舊賓朋　見黃成喜分佳飲食</text>
+<text x="90" y="574" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">賀人傑不知分量，初次與黃天霸前去，受了重傷；</tspan><tspan x="90" dy="34">二次與殷家的兄弟又去，幾乎送了性命。現在聽說</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

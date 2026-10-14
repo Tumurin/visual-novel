@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="九尾龜">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="958" cy="157" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,400 L0,400 L164,353 L317,314 L477,371 L676,321 L886,393 L1085,350 L1200,329 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,472 L0,472 L219,411 L425,358 L657,368 L858,392 L1058,432 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,602 L0,602 L208,413 L409,417 L597,439 L850,386 L1104,537 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="401" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">九尾龜</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十九回　闖房間流氓橫索詐　懲無理名士怒揮拳</text>
+<text x="90" y="531" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">早聽得秋谷大聲說道：“你們不要害怕，有我在這</tspan><tspan x="90" dy="34">裏一面承當。”說着，便向衆人喝道：“你們這班</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

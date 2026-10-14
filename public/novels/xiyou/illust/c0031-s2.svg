@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1040" cy="233" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,459 L0,459 L175,389 L418,335 L660,406 L819,341 L1038,390 L1200,329 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,505 L0,505 L225,462 L380,411 L543,408 L690,440 L836,404 L996,476 L1200,344 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L220,540 L414,383 L618,524 L818,456 L1065,521 L1200,540 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="406" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三一回     豬八戒義激猴王　孫行者智降妖怪</text>
+<text x="90" y="536" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">八戒道：「實不瞞哥哥說，自你回後，我與沙僧保</tspan><tspan x="90" dy="34">師父前行，只見一座黑松林，師父下馬，教我化齋</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

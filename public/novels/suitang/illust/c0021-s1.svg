@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="隋唐演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="705" cy="206" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,460 L0,460 L141,319 L308,402 L551,399 L802,306 L1004,397 L1193,397 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,523 L0,523 L211,463 L443,430 L703,414 L907,430 L1057,454 L1200,399 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,591 L0,591 L249,397 L498,535 L727,542 L906,401 L1069,404 L1200,439 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="416" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">隋唐演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十一回　借酒肆初结金兰　通姓名自显豪杰</text>
+<text x="90" y="546" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且说那解银官薛亮，赶到州中，正直刺史斛斯平坐</tspan><tspan x="90" dy="34">堂，连忙跪下道："差委督解银两，前赴洛阳，二</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

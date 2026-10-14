@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="854" cy="240" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L201,308 L423,403 L587,331 L815,339 L1007,315 L1187,377 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L168,343 L352,475 L526,439 L700,410 L857,350 L1024,349 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L159,408 L302,384 L466,405 L698,447 L842,507 L1094,552 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="387" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百八回　兼六國混一輿圖　號始皇建立郡縣</text>
+<text x="90" y="517" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">初合，秦兵稍卻，王翦驅壯士分爲左右二隊，各持</tspan><tspan x="90" dy="34">短兵，大呼突入其陣，蒙武手斬裨將一人，復生擒</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

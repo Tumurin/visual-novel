@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="865" cy="227" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,411 L0,411 L205,409 L390,325 L541,379 L689,381 L859,349 L1062,409 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,483 L0,483 L183,343 L439,391 L596,333 L854,461 L1005,359 L1200,330 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,570 L0,570 L160,506 L388,487 L536,433 L706,474 L899,459 L1080,469 L1200,380 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="418" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十八回：賈文和料敵決勝，夏侯惇拔失啖睛</text>
+<text x="90" y="548" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說荀彧探知袁紹欲興兵犯許都，星夜馳書報曹操</tspan><tspan x="90" dy="34">。操得書心慌，即日回兵。細作報知張繡，繡欲追</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

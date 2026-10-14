@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世姻緣傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="850" cy="145" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,431 L0,431 L160,314 L399,326 L542,370 L761,305 L918,341 L1139,352 L1200,312 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,510 L0,510 L208,398 L374,422 L554,371 L782,366 L959,381 L1200,337 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L174,404 L351,484 L581,503 L803,383 L1061,447 L1200,421 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="434" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世姻緣傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十二回  狄員外自造生墳 薛素姐夥遊遠廟</text>
+<text x="90" y="564" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">衆人倒呵呵大笑起來，問魏三封：“魏哥，你的主</tspan><tspan x="90" dy="34">意何如？”魏三封道：“我也不合他到官，我只拿</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

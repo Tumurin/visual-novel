@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="小五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1043" cy="134" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,457 L0,457 L175,365 L417,319 L613,344 L811,305 L1048,409 L1200,357 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,470 L0,470 L215,402 L383,376 L613,466 L836,436 L982,417 L1177,415 L1200,377 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,564 L0,564 L178,396 L423,446 L628,408 L868,560 L1023,463 L1175,484 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="388" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">小五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十八回在後寨見侄誇相貌獅子林老僕暗偷聽</text>
+<text x="90" y="518" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">你道外邊黑影兒是誰？就是君山鍾寨主的心腹家人</tspan><tspan x="90" dy="34">。此人姓謝叫謝寬，合大家在前面議論了半天。是</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

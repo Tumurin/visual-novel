@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1043" cy="175" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,420 L0,420 L229,366 L475,381 L700,404 L867,357 L1007,371 L1200,314 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,473 L0,473 L185,340 L384,461 L608,347 L766,382 L983,373 L1200,420 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,606 L0,606 L161,455 L412,533 L628,507 L782,396 L952,383 L1188,472 L1200,503 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="450" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第３３３回　魏國安失機被獲　金錘將夜探敵營</text>
+<text x="90" y="580" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">書中暗表：這營中的孔壽、趙勇二人，素日跟石鑄</tspan><tspan x="90" dy="34">相交甚厚，因當初孔壽中了毒鏢，石鑄曾千里討藥</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

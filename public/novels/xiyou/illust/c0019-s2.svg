@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="930" cy="120" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,417 L0,417 L158,345 L315,384 L473,378 L694,342 L846,333 L1011,404 L1172,368 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,518 L0,518 L253,444 L396,478 L559,476 L743,395 L1001,339 L1200,437 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L257,517 L400,413 L552,455 L746,474 L920,449 L1156,495 L1200,523 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="390" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十九回     雲棧洞悟空收八戒　浮屠山玄奘受心經</text>
+<text x="90" y="520" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">行者聞言，收了鐵棒道：「獃子不要說嘴，老孫把</tspan><tspan x="90" dy="34">這頭伸在那裏，你且築一下兒，看可能魂消氣泄？</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

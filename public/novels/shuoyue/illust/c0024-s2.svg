@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="851" cy="124" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,419 L0,419 L180,322 L426,354 L669,380 L846,327 L1092,315 L1200,306 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,503 L0,503 L206,397 L465,457 L664,443 L914,440 L1103,405 L1200,366 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,587 L0,587 L257,472 L515,510 L660,559 L831,452 L1033,489 L1196,560 L1200,537 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="394" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十四回　釋番將劉豫降金獻玉璽邦昌拜相</text>
+<text x="90" y="524" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">高宗道：“卿之前罪免究，今獻玉璽有功，官封右</tspan><tspan x="90" dy="34">丞相之職。”邦昌謝恩而退。到了次日，邦昌上殿</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

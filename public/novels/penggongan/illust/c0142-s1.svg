@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="800" cy="186" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,413 L0,413 L164,379 L333,346 L479,345 L674,369 L865,304 L1113,307 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L216,380 L370,419 L532,471 L782,424 L924,411 L1098,371 L1200,334 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,590 L0,590 L179,540 L341,505 L567,402 L801,502 L942,397 L1094,386 L1200,459 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="397" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百四十九回  請俠義紅龍澗要鏢  見欽差馬玉龍拿賊</text>
+<text x="90" y="527" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">馬玉龍擺寶劍跳過來，石鑄在後面喊嚷，說：“衆</tspan><tspan x="90" dy="34">位辦差的老爺聽真，這位乃是龍山馬玉龍，奉欽差</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

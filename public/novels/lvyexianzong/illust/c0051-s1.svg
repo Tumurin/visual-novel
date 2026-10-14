@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="綠野仙蹤">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="841" cy="213" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,452 L0,452 L251,346 L461,359 L644,387 L796,363 L1033,372 L1196,371 L1200,337 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,519 L0,519 L247,473 L457,460 L683,471 L857,371 L1103,374 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,564 L0,564 L237,394 L473,518 L682,422 L853,509 L1073,425 L1200,435 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="457" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">綠野仙蹤</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十一回赴章臺如玉釋嫌怨抱馬桶苗禿受叱呼</text>
+<text x="90" y="587" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">“金鐘兒聽了，將粉項一低，那眼中的淚，就像斷</tspan><tspan x="90" dy="34">線珍珠相似，撲籟籟亂滾下來。苗禿子罵道：“這</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

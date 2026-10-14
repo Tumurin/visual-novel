@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="痛史">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="720" cy="215" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,447 L0,447 L184,315 L395,354 L553,365 L694,319 L938,326 L1103,387 L1200,330 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,499 L0,499 L191,389 L407,409 L586,337 L770,385 L948,382 L1180,371 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,602 L0,602 L190,410 L445,411 L670,520 L819,384 L1039,385 L1200,427 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="428" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">痛史</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十八回　滅宋室生致文天祥　論圖形氣死張弘範</text>
+<text x="90" y="558" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">毅甫引了胡仇、虎臣到密室裏，商量道：“我想外</tspan><tspan x="90" dy="34">面要求趙氏之後也甚難，德祐皇帝，現在這裏，文</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

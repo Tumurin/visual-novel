@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="709" cy="120" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,422 L0,422 L192,317 L448,312 L684,353 L913,347 L1167,353 L1200,396 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L177,446 L403,397 L565,367 L798,341 L1039,459 L1188,400 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,552 L0,552 L236,509 L475,538 L705,416 L895,414 L1058,482 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="447" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十九回：諸葛亮大破魏兵，司馬懿入寇西蜀</text>
+<text x="90" y="577" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">言訖，縱馬挺鎗，殺上山來。山上矢石如雨。郃不</tspan><tspan x="90" dy="34">能上山，乃拍馬舞槍，衝出重圍，無人敢當。蜀兵</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

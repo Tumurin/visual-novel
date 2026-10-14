@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="834" cy="193" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,437 L0,437 L165,351 L360,355 L609,342 L833,359 L1034,351 L1200,317 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L197,413 L421,404 L613,434 L860,380 L1044,402 L1200,433 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,570 L0,570 L144,483 L300,416 L486,502 L630,520 L789,411 L952,543 L1167,529 L1200,474 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="416" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第３３５回　高提督疑兵驚天王　彭欽差致書辱番軍</text>
+<text x="90" y="546" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">白天王看罷，勃然大怒，說：“好彭朋！膽敢戲耍</tspan><tspan x="90" dy="34">於我，我必得跟他決一死戰。”吩咐把劉升帶了上</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

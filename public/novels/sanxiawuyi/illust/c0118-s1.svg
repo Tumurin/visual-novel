@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="910" cy="234" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L176,313 L364,378 L558,338 L750,311 L923,374 L1159,410 L1200,356 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,519 L0,519 L142,376 L335,432 L571,375 L823,476 L1026,411 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,574 L0,574 L175,447 L320,548 L576,415 L760,409 L999,559 L1196,451 L1200,474 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="408" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一一八回     除姦淫錯投大木場　救急困趕奔神樹崗</text>
+<text x="90" y="538" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">你道此人是誰？真真令人想擬不到。原來正是小俠</tspan><tspan x="90" dy="34">艾虎。自從送了施俊回家，探望父親，幸喜施老爺</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

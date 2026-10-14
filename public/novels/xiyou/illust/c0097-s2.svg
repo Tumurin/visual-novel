@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="979" cy="199" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,448 L0,448 L218,387 L394,399 L626,307 L825,381 L1052,303 L1200,327 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,508 L0,508 L212,423 L466,434 L683,470 L828,425 L1061,429 L1200,403 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,597 L0,597 L241,461 L388,460 L603,515 L805,391 L972,450 L1122,489 L1200,384 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="423" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九七回     金酬外護遭魔蟄　聖顯幽魂救本原</text>
+<text x="90" y="553" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">行者請唐僧坐在上首，他三人各執兵器喝道：“毛</tspan><tspan x="90" dy="34">賊！你們一起有多少人？做了幾年買賣？打劫了有</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

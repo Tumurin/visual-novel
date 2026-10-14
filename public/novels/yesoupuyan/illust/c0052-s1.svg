@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1020" cy="200" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,440 L0,440 L256,394 L495,351 L680,354 L864,303 L1067,336 L1200,400 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,486 L0,486 L172,374 L388,446 L589,359 L771,413 L1029,431 L1189,386 L1200,416 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,560 L0,560 L215,443 L436,400 L684,385 L897,410 L1150,547 L1200,520 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="460" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十二回  阻活佛昇天破地藏觀音出世  剁海龍入水擲鐵錨金犭孔傾心</text>
+<text x="90" y="590" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">素臣看那客人，面如金紙，眼似銅鈴，鼻若膽懸，</tspan><tspan x="90" dy="34">眉同劍削，汗流不止，氣喘無休，已是支架不來，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

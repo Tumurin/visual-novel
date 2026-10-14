@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1017" cy="145" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,401 L0,401 L164,409 L409,328 L656,387 L848,409 L1075,380 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,493 L0,493 L239,458 L389,398 L607,480 L748,377 L999,430 L1200,403 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L156,534 L336,482 L528,429 L686,534 L916,555 L1135,529 L1200,479 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="391" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十二回　楊家將晉陽鬥武　楊郡馬領鎮三關</text>
+<text x="90" y="521" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">招吉欲衝宋陣，宋隊中走出一女將，乃八娘也。跳</tspan><tspan x="90" dy="34">上青驄，出與招吉交鋒。鬥不數合，八娘拋起紅絛</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

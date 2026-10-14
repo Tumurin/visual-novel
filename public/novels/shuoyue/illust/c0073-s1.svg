@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="744" cy="154" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,439 L0,439 L164,327 L373,320 L587,323 L821,326 L1048,328 L1200,350 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,483 L0,483 L189,445 L389,434 L621,415 L785,470 L1037,421 L1200,424 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,585 L0,585 L198,438 L413,435 L608,484 L763,452 L985,464 L1128,381 L1200,416 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="410" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十二回　黑蠻龍提兵祭岳墳秦丞相嚼舌歸陰府</text>
+<text x="90" y="540" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">罪在不赦！本帥特來拿你，碎屍萬段。”黑蠻龍大</tspan><tspan x="90" dy="34">怒，罵聲：“你這班奸黨逆賊，快快把秦檜首惡獻</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

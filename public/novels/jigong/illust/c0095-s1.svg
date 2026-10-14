@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="769" cy="179" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,452 L0,452 L167,353 L343,402 L512,399 L767,368 L1007,340 L1200,399 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L248,370 L456,357 L706,442 L864,353 L1049,333 L1200,432 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L234,484 L392,529 L635,434 L873,554 L1078,537 L1200,384 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="461" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十五回</text>
+<text x="90" y="591" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">三英雄避雨金家莊 猛豪傑正氣驚妖女話說雷鳴、</tspan><tspan x="90" dy="34">陳亮聽外面說生人味，雷鳴也不答話，拉出刀來。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

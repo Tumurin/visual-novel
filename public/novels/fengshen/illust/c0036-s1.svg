@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="728" cy="137" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,447 L0,447 L150,344 L377,333 L573,349 L821,383 L1059,360 L1200,334 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,509 L0,509 L151,343 L360,389 L537,349 L763,432 L923,442 L1111,406 L1200,382 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,558 L0,558 L231,405 L417,555 L589,498 L803,470 L977,494 L1123,393 L1200,523 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="468" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十六回    張桂芳奉詔西征</text>
+<text x="90" y="598" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">張桂芳又見寶纛旛下，武成王黃飛虎坐騎提鎗，心</tspan><tspan x="90" dy="34">中大怒，一馬闖至軍前；見子牙而言曰：「姜尚，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

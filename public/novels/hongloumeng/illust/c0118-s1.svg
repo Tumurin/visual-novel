@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="紅樓夢">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="868" cy="133" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,453 L0,453 L202,331 L364,359 L558,403 L740,353 L901,373 L1158,404 L1200,364 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,474 L0,474 L171,432 L333,454 L556,470 L801,346 L1006,461 L1200,437 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,608 L0,608 L217,438 L428,524 L615,477 L764,455 L1019,414 L1200,489 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="422" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">紅樓夢</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一一六回　　得通靈幻境悟仙緣　送慈柩故鄉全孝道</text>
+<text x="90" y="552" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說寶玉一听麝月的話，身往后仰，复又死去，急</tspan><tspan x="90" dy="34">得王夫人等哭叫不止．麝月自知失言致禍，此時王</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

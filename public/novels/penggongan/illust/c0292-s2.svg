@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="702" cy="136" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L260,347 L417,403 L632,369 L825,369 L974,339 L1160,392 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L236,447 L456,471 L625,365 L853,376 L1089,480 L1200,403 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,567 L0,567 L163,528 L398,522 L633,543 L878,412 L1041,492 L1200,417 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="455" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三百零七回  高志廣良言勸友  吳佔鰲暗進忠言</text>
+<text x="90" y="585" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">吳氏聽了，說：“賢弟，依你之見，該當怎麼辦呢</tspan><tspan x="90" dy="34">？”吳佔鰲說：“現在恩公鄧飛雄在彭中堂手下當</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

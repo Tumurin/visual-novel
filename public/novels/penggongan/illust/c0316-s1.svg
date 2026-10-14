@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="954" cy="218" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,405 L0,405 L233,305 L482,343 L731,338 L948,391 L1159,320 L1200,356 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L161,364 L352,330 L584,472 L724,436 L929,438 L1186,363 L1200,396 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,577 L0,577 L240,393 L396,539 L562,525 L786,446 L1014,487 L1197,520 L1200,479 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="443" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第３３１回　白天王兵困四絕山　馬副將大戰衆番兵</text>
+<text x="90" y="573" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">兩方合約之時，彭中堂要這四個賊人；白天王不肯</tspan><tspan x="90" dy="34">，便把這四人放在木羊陣中，每天有走線木人送飯</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

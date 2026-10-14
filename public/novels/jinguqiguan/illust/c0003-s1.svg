@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="今古奇觀">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="873" cy="173" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,440 L0,440 L153,364 L331,384 L534,345 L701,386 L883,351 L1141,312 L1200,326 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,482 L0,482 L164,462 L308,351 L471,357 L720,355 L941,420 L1083,417 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,563 L0,563 L230,410 L477,519 L667,401 L920,434 L1165,456 L1200,454 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="430" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">今古奇觀</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三卷　滕大尹鬼斷傢俬</text>
+<text x="90" y="560" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">再過四年，小孩子長成五歲。老子見他伶俐，又忒</tspan><tspan x="90" dy="34">會頑耍，要送他館中上學。取個學名，哥哥叫善繼</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="865" cy="237" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,441 L0,441 L240,410 L408,390 L628,317 L838,392 L1068,389 L1200,385 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L214,430 L355,467 L499,421 L738,479 L935,449 L1141,394 L1200,390 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,607 L0,607 L228,437 L465,524 L664,523 L807,549 L998,495 L1200,549 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="399" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十七回　岳飛大戰愛華山阮良水底擒兀朮</text>
+<text x="90" y="529" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">這一場大戰，殺得那金兵大敗虧輸，望西北而逃。</tspan><tspan x="90" dy="34">嶽元帥在後邊催動人馬，急急追趕，直殺得屍橫遍</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="748" cy="153" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L194,338 L399,317 L570,403 L749,304 L918,359 L1113,397 L1200,377 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,496 L0,496 L179,355 L329,378 L481,382 L634,340 L799,376 L939,421 L1190,434 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,578 L0,578 L197,487 L339,389 L598,439 L827,380 L1066,465 L1200,414 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="435" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十一回　苗王洞嶽霖入贅東南山何立見佛</text>
+<text x="90" y="565" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">侍者道：“前面就是鬼門關，右首就是枉死城。大</tspan><tspan x="90" dy="34">凡鬼犯進了枉死城，就難轉人身了。”說話之間，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

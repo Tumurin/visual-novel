@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1009" cy="238" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,433 L0,433 L203,378 L434,323 L628,333 L858,374 L1077,307 L1200,330 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,498 L0,498 L199,450 L393,427 L558,383 L774,440 L933,391 L1180,358 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L256,538 L412,481 L665,493 L913,401 L1144,489 L1200,518 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="447" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第505回　喜相逢擊走黑閻羅　訴離情恨煞惡強盜</text>
+<text x="90" y="577" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">忽見他袖口一起，飛來一物，有酒杯口大小，此便</tspan><tspan x="90" dy="34">是這和尚的十八菩提子母鐵彈。賽花也跟明手快，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="816" cy="143" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,451 L0,451 L241,362 L429,357 L599,372 L849,332 L1041,302 L1200,302 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L158,413 L334,356 L532,473 L728,332 L878,386 L1134,414 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L215,387 L455,421 L707,429 L902,528 L1115,473 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="394" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十五回　曹彬部兵徵大遼　懷德戰死歧溝關</text>
+<text x="90" y="524" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，兵進飛狐嶺。守將昌行德，知宋兵已到，與</tspan><tspan x="90" dy="34">招安使大鵬翼等計議曰：“宋軍勢大，難以迎敵，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

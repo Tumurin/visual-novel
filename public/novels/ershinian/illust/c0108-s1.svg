@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="二十年目睹之怪現狀">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="747" cy="183" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L177,400 L328,325 L521,363 L743,338 L938,372 L1158,313 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,528 L0,528 L147,427 L329,427 L588,417 L784,374 L1001,462 L1200,440 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,577 L0,577 L244,396 L454,537 L651,462 L878,382 L1112,485 L1200,549 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">二十年目睹之怪現狀</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百八回　負屈含冤賢令尹結果　風流雲散怪現狀收場</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">偏偏今天沒有船，就在客棧住了兩夜，方纔附船到</tspan><tspan x="90" dy="34">漢口。到了漢口，便過到下水船去。一直到了上海</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

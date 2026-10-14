@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="孽海花">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1048" cy="166" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L205,374 L355,383 L530,318 L684,360 L874,392 L1016,302 L1200,387 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,507 L0,507 L147,394 L330,397 L589,358 L795,434 L1005,443 L1191,349 L1200,454 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,587 L0,587 L229,445 L456,507 L674,486 L861,411 L1083,429 L1200,438 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">孽海花</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十二回    艷幟重張懸牌燕慶裏　義旗不振棄甲雞隆山</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">「在景嵩自以為操縱得法，總可得到兩人的同心協</tspan><tspan x="90" dy="34">力。誰知事實恰與思想相反。只為德義同文魁平常</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

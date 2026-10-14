@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="772" cy="221" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,406 L0,406 L246,378 L425,351 L641,387 L819,327 L967,303 L1194,360 L1200,349 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,480 L0,480 L144,378 L342,473 L590,452 L754,368 L1011,337 L1200,464 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L197,383 L409,408 L609,543 L820,456 L1068,474 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="445" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十四回  仿八陣圖黃昏遁甲　破兩門法白晝鏖兵</text>
+<text x="90" y="575" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">素臣不趕，正待衝出陣去，忽聽炮聲震天，梆子響</tspan><tspan x="90" dy="34">處，千弩俱發，石彈齊飛，素臣舞刀遮隔，叮叮噹</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

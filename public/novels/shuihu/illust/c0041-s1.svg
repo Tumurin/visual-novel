@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="903" cy="131" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,457 L0,457 L164,376 L316,377 L517,405 L673,393 L855,398 L1069,401 L1200,306 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,523 L0,523 L167,451 L399,384 L654,376 L909,370 L1104,441 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,555 L0,555 L167,523 L355,531 L580,401 L814,458 L1031,412 L1200,441 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="395" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十一回　還道村受三卷天書　宋公明遇九天玄女</text>
+<text x="90" y="525" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一時，衆頭領各各上馬，離了還道村口，宋江在馬</tspan><tspan x="90" dy="34">上，以手加額望空頂禮，稱謝神明庇佑之力，容日</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

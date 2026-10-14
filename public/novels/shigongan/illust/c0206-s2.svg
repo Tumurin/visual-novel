@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="845" cy="192" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L157,410 L299,344 L483,335 L738,366 L883,394 L1056,305 L1200,381 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,524 L0,524 L236,337 L402,464 L639,401 L816,433 L1011,443 L1200,453 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,583 L0,583 L233,430 L449,467 L702,538 L903,407 L1143,535 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="412" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第206回　黃副將追賊遇險　陳知縣失囚請罪</text>
+<text x="90" y="542" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">但不知賊人逃往何處，只怕不在玄壇廟的了。”黃</tspan><tspan x="90" dy="34">天霸說：“不然，他們的玄壇廟內，擺設的重重埋</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

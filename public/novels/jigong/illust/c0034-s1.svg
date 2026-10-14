@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="809" cy="120" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,451 L0,451 L238,324 L386,324 L559,338 L802,397 L1054,368 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L149,419 L401,472 L634,473 L884,413 L1117,480 L1200,440 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L168,539 L409,431 L634,427 L775,521 L942,407 L1158,413 L1200,431 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="452" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十四回</text>
+<text x="90" y="582" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說濟公同妖道二人正自口角相爭，老道說；"和</tspan><tspan x="90" dy="34">尚我叫你三聲，你敢答應我三聲？"濟公說："慢</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

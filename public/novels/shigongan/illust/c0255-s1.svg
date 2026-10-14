@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="738" cy="234" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,406 L0,406 L185,391 L437,351 L666,382 L810,393 L958,388 L1173,359 L1200,349 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L189,471 L344,437 L589,468 L829,390 L1028,382 L1200,332 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,561 L0,561 L199,558 L341,481 L559,420 L788,465 L995,409 L1200,518 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="393" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第255回　英雄尚義巧遇良朋　女兒多情面求佳婿</text>
+<text x="90" y="523" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">褚標道：“賢侄既如此，爲何還不去呢？”黃天霸</tspan><tspan x="90" dy="34">道：“不瞞你老說，昨夜已去過了。”褚標道：“</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

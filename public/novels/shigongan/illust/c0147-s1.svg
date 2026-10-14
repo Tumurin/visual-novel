@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="998" cy="131" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,459 L0,459 L194,343 L343,309 L543,320 L750,370 L910,406 L1157,304 L1200,319 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,474 L0,474 L250,451 L415,346 L652,350 L865,441 L1084,356 L1200,383 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L212,387 L393,507 L597,457 L804,397 L1045,413 L1200,425 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="392" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第147回　黃天霸踩訪賊宅　惡家奴謀害賢臣</text>
+<text x="90" y="522" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">不言小西老等，且說天霸來至惡人內舍房上，閃目</tspan><tspan x="90" dy="34">各處觀看，但見各屋都是明燈亮燭，人語喧譁，滿</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

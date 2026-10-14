@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="743" cy="186" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L255,314 L472,323 L722,407 L941,367 L1195,382 L1200,332 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,470 L0,470 L197,452 L357,354 L519,334 L767,408 L975,369 L1150,378 L1200,348 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L156,512 L366,484 L531,414 L679,509 L845,464 L1001,536 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="416" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十二回　諸侯同心圍齊國　晉臣合計逐欒盈</text>
+<text x="90" y="546" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">齊莊公入城，工僂同殖綽綁縛夙沙衛解到。莊公大</tspan><tspan x="90" dy="34">罵：“奄狗！寡人何負於汝，汝卻輔少奪長！今公</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

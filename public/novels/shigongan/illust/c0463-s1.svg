@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="825" cy="205" r="53" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,447 L0,447 L250,372 L509,350 L683,376 L828,321 L1052,356 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L197,351 L348,411 L546,343 L731,476 L987,460 L1172,384 L1200,451 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,592 L0,592 L177,527 L395,382 L558,398 L814,494 L1012,546 L1200,444 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="415" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第463回　出重圍人傑失路　渡寬河王雄駕舟</text>
+<text x="90" y="545" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">誰知此時這一陣惡殺，早已將方向忘卻。出了關門</tspan><tspan x="90" dy="34">，不向原路去走，反向山後而來。一氣奔馳，約走</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="989" cy="158" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,440 L0,440 L235,354 L424,409 L594,388 L734,328 L891,376 L1137,405 L1200,362 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,477 L0,477 L247,380 L410,453 L622,456 L819,349 L1059,354 L1200,453 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,604 L0,604 L184,545 L332,418 L584,442 L739,548 L957,550 L1177,459 L1200,559 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="463" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十五回　因抱恙玉姐含酸　為護短金蓮潑醋</text>
+<text x="90" y="593" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當下月娘自知屋裡說話，不防金蓮暗走到明間簾下</tspan><tspan x="90" dy="34">，聽覷多時了，猛可開言說道：“可是大娘說的，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

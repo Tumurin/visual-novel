@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="綠野仙蹤">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="729" cy="153" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,415 L0,415 L179,362 L436,300 L586,382 L832,300 L1057,306 L1200,372 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L242,450 L482,427 L642,450 L859,339 L1104,445 L1200,454 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L151,444 L393,393 L540,501 L733,468 L939,409 L1144,403 L1200,540 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="426" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">綠野仙蹤</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十七回鄭龜婆聞唆拼性命苗禿子懼禍棄傢俬</text>
+<text x="90" y="556" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">兩人到西房檐下，蕭麻子又將苗禿一看，見衣服拉</tspan><tspan x="90" dy="34">的千條萬縷，面上帶着四五道大血痕，像個指甲撾</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

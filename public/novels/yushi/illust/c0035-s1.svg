@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="喻世明言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="775" cy="176" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,431 L0,431 L211,332 L450,387 L627,366 L860,384 L1029,373 L1200,318 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,472 L0,472 L204,423 L369,459 L549,424 L744,374 L950,384 L1188,385 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L224,556 L425,557 L675,495 L823,408 L997,416 L1164,512 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="383" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">喻世明言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十五卷　簡帖僧巧騙皇甫妻</text>
+<text x="90" y="513" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">白苧輕衫入嫩涼，春蚕食葉響長廊。禹門已准桃花</tspan><tspan x="90" dy="34">浪，月殿先收桂子香。鵬北海，鳳朝陽，又攜書劍</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

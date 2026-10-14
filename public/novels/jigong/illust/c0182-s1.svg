@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="901" cy="218" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,411 L0,411 L150,404 L364,318 L606,315 L788,304 L954,303 L1126,326 L1200,383 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,515 L0,515 L190,459 L360,389 L524,368 L694,396 L929,449 L1129,435 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L142,492 L373,429 L622,557 L869,544 L1027,383 L1197,413 L1200,517 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="450" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百八十二回</text>
+<text x="90" y="580" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">吳氏遇害奉偷捉賊 濟公耍笑審問崔玉話說黃義同</tspan><tspan x="90" dy="34">街坊鄰人進到屋中一看，見吳氏在牆上釘子崩着，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

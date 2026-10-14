@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="984" cy="217" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,418 L0,418 L189,397 L334,375 L542,381 L745,401 L916,316 L1115,381 L1200,360 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L182,400 L335,464 L498,348 L726,459 L874,378 L1046,400 L1200,465 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,556 L0,556 L175,406 L406,495 L610,450 L768,424 L982,406 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="455" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十二回：取涪關楊高授首，攻雒城黃魏爭功</text>
+<text x="90" y="585" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">張肅見了，大驚曰：「吾弟作滅門之事，不可不首</tspan><tspan x="90" dy="34">。」連夜將書見劉璋，具言弟張松與劉備同謀，欲</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

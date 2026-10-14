@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="青樓夢">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="813" cy="142" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,429 L0,429 L252,407 L458,339 L675,363 L863,393 L1009,379 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L260,367 L421,409 L666,425 L889,365 L1112,369 L1200,357 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L188,520 L356,492 L528,412 L706,450 L852,505 L1074,433 L1200,502 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="427" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">青樓夢</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十一回　綴巍科才人弛譽　作幻夢美女飛仙</text>
+<text x="90" y="557" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">拜林等三人雖然嘗見，餘卻未曾識面，依舊大鬧，</tspan><tspan x="90" dy="34">甚至鬧到挹香命小素相見後方罷。衆人見了，暗暗</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

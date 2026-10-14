@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="聊齋誌異">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="744" cy="162" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,438 L0,438 L189,313 L420,409 L644,368 L821,365 L967,338 L1197,356 L1200,384 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,487 L0,487 L257,371 L412,441 L582,343 L733,407 L873,476 L1114,403 L1200,335 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,601 L0,601 L143,542 L376,485 L549,405 L692,538 L901,432 L1051,402 L1200,544 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="400" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">聊齋誌異</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">卷八</text>
+<text x="90" y="530" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">崔母自鄰婦死，戒子益切，有赴訴者，輒擯斥之。</tspan><tspan x="90" dy="34">一日，崔母弟卒，從母往弔。途遇數人，縶一男子</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

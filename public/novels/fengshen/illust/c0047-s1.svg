@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="729" cy="221" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,401 L0,401 L140,353 L298,406 L491,401 L639,320 L876,328 L1114,381 L1200,324 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,494 L0,494 L228,421 L444,363 L631,354 L868,455 L1090,423 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,564 L0,564 L177,546 L327,518 L587,502 L738,399 L927,416 L1135,560 L1200,528 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="402" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十七回    公明輔佐聞太師</text>
+<text x="90" y="532" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，陞中軍，趙公明上虎，提鞭，早到篷下，坐</tspan><tspan x="90" dy="34">名要燃燈答話。燃燈在篷上見公明跨虎而來，謂眾</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

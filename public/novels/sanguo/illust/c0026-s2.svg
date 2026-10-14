@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="847" cy="148" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,413 L0,413 L142,305 L312,314 L557,315 L744,333 L987,303 L1152,382 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,520 L0,520 L227,364 L482,394 L659,385 L853,427 L1080,451 L1200,452 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L214,477 L444,484 L702,384 L852,525 L1016,478 L1172,543 L1200,517 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="392" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十六回：袁本初敗兵折將，關雲長挂印封金</text>
+<text x="90" y="522" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">關公因將上項事，細說一遍。乾曰：「近聞玄德公</tspan><tspan x="90" dy="34">在袁紹處，欲往投之，未得其便。今劉、龔二人歸</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

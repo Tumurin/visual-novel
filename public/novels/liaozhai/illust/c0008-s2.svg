@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="聊齋誌異">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="831" cy="175" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,418 L0,418 L223,347 L445,392 L652,308 L808,303 L1007,397 L1200,313 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,515 L0,515 L253,375 L409,354 L557,445 L734,452 L915,454 L1104,352 L1200,434 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L251,398 L435,410 L667,545 L924,488 L1148,467 L1200,417 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="424" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">聊齋誌異</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">卷八</text>
+<text x="90" y="554" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一日，自外至，潛聽久之，乃開鎖啟扉，惟恐其響</tspan><tspan x="90" dy="34">，悄然掩入。見一男子貂冠臥床上，忿怒，取刀奔</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="948" cy="185" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,445 L0,445 L235,350 L385,354 L591,371 L765,344 L1008,316 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L172,473 L386,401 L569,473 L709,374 L900,333 L1084,408 L1200,343 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L243,521 L501,460 L643,514 L867,526 L1017,433 L1200,527 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="440" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第469回　黃天霸大破朝舞山　何路通押犯沂州府</text>
+<text x="90" y="570" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">智明見他還手，當時不敢怠慢，用了個秋風掃落葉</tspan><tspan x="90" dy="34">式，把身體向前，手拐向後，勒定刀柄，覷定小西</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

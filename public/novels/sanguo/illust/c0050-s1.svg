@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="803" cy="137" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L167,352 L364,356 L573,379 L720,351 L865,322 L1108,342 L1200,323 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,526 L0,526 L215,442 L377,468 L632,470 L823,392 L992,435 L1139,332 L1200,404 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,601 L0,601 L224,500 L429,504 L620,489 L827,415 L968,385 L1165,432 L1200,446 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="453" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十回：諸葛亮智算華容，關雲長義釋曹操</text>
+<text x="90" y="583" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">正走間，背後一軍趕到，大叫：「曹賊休走！」火</tspan><tspan x="90" dy="34">光中現出呂蒙旗號。操催軍馬向前，留張遼斷後，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

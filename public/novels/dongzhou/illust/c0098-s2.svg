@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="736" cy="194" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,400 L0,400 L141,320 L368,336 L564,300 L786,348 L954,313 L1145,300 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,499 L0,499 L202,335 L371,342 L592,369 L746,396 L894,449 L1053,349 L1200,378 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L170,400 L363,389 L590,558 L783,451 L1037,410 L1200,481 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="411" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十八回　質平原秦王索魏齊　敗長平白起坑趙卒</text>
+<text x="90" y="541" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說須賈得命，連夜奔回大梁，來見魏王，述範睢</tspan><tspan x="90" dy="34">吩咐之語，那送家眷是小事，要斬相國之頭，干礙</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

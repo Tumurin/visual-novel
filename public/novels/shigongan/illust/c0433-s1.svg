@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1047" cy="212" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,454 L0,454 L176,358 L431,388 L672,358 L894,345 L1090,394 L1200,325 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L197,372 L377,361 L589,442 L799,435 L958,367 L1166,332 L1200,348 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L235,541 L404,484 L618,469 L861,423 L1057,544 L1200,414 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="453" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第433回　口占雀屏允稱快婿　夢聯鴛枕竟遂良緣</text>
+<text x="90" y="583" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">於是清音就唱起來。諸親友傳杯弄盞，互相痛飲。</tspan><tspan x="90" dy="34">酒至半酣，大家皆喫得高興。如何大鬧洞房，且看</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

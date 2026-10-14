@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="744" cy="187" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,415 L0,415 L235,306 L443,310 L697,398 L861,368 L1073,387 L1200,381 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L153,461 L306,405 L556,339 L723,475 L951,339 L1191,416 L1200,340 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,605 L0,605 L257,463 L406,478 L560,401 L740,529 L914,389 L1113,395 L1200,514 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="457" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十四回　宋襄公假仁失衆　齊姜氏乘醉遣夫</text>
+<text x="90" y="587" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說楚成王假飾乘車赴會，跟隨人衆俱是壯丁，內</tspan><tspan x="90" dy="34">穿暗甲，身帶暗器，都是成得臣、鬥勃選練來的，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

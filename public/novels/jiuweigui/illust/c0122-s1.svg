@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="九尾龜">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="917" cy="228" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,409 L0,409 L248,391 L412,378 L563,402 L714,374 L881,365 L1134,320 L1200,319 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,522 L0,522 L146,396 L303,397 L478,432 L706,442 L886,408 L1027,366 L1187,461 L1200,478 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,553 L0,553 L221,472 L385,416 L551,455 L752,441 L965,391 L1198,415 L1200,408 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="444" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">九尾龜</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百二十一回　聯美眷蕩子迷香　破溫柔滑頭潑醋</text>
+<text x="90" y="574" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">楊慕陶正要開口，早見坐在他上首一個少年立起身</tspan><tspan x="90" dy="34">來，睜開兩眼對着貢春樹喝道：“你是什麼人？敢</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

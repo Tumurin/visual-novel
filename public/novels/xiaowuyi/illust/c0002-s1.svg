@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="小五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="973" cy="211" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,430 L0,430 L204,304 L463,338 L625,351 L786,359 L993,301 L1200,316 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,522 L0,522 L193,420 L417,370 L567,358 L808,398 L956,461 L1172,388 L1200,469 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L147,537 L373,492 L615,534 L828,433 L1063,490 L1200,509 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="423" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">小五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二回 智化夜深銅網陣  玉堂涉險盜盟單</text>
+<text x="90" y="553" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">智爺意欲向前，忽然聽東南“颼”的一聲，由風火</tspan><tspan x="90" dy="34">家人進來一條黑影。智爺喫驚，伏身細看，原來是</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

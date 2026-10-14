@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1044" cy="187" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L260,393 L437,404 L670,401 L920,327 L1165,335 L1200,395 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,528 L0,528 L218,466 L398,422 L540,437 L708,366 L858,394 L1023,470 L1200,477 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,587 L0,587 L207,424 L391,509 L593,556 L778,492 L920,479 L1163,503 L1200,504 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="451" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第426回　尋惡寇莊主說原因　想逃生強人入死路</text>
+<text x="90" y="581" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">再說馬虎鸞在廂房內，聽他們在外面講話，始則聽</tspan><tspan x="90" dy="34">花熊堅不肯認，心中大喜；繼則聽計全說，要請他</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

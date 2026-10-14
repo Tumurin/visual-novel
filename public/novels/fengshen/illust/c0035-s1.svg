@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="930" cy="222" r="62" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,405 L0,405 L226,403 L390,402 L602,398 L828,343 L1047,308 L1200,313 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L237,400 L437,409 L691,381 L879,339 L1075,458 L1200,340 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L142,480 L402,403 L556,430 L755,479 L1007,497 L1167,538 L1200,403 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十五回    晁田兵探西岐事</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說晁田安營，與弟共議：「今奉太師命，來探西</tspan><tspan x="90" dy="34">岐虛實，原來也無準備。今日往西岐見陣，如何？</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

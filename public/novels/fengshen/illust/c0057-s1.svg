@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="740" cy="134" r="59" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L258,314 L486,396 L736,363 L960,329 L1157,372 L1200,359 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,510 L0,510 L144,330 L293,480 L526,439 L783,394 L931,420 L1155,449 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,575 L0,575 L209,441 L384,440 L639,424 L789,436 L1029,486 L1200,519 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="460" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十七回    冀州侯蘇護伐西岐</text>
+<text x="90" y="590" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說鄭倫大戰哪吒，恐哪吒先下手，把杵一擺，烏</tspan><tspan x="90" dy="34">鴉兵如長蛇陣一般，都拿著撓鉤套索前來等著。哪</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

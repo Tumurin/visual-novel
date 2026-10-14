@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世恆言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="877" cy="232" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,433 L0,433 L203,394 L437,400 L649,307 L861,328 L1081,333 L1200,376 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L245,468 L392,371 L546,456 L792,441 L1008,360 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,588 L0,588 L163,518 L344,415 L562,429 L815,390 L977,526 L1200,526 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="396" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世恆言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六卷</text>
+<text x="90" y="526" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">王臣吃了夜飯，到房中安息。自想野狐忍痛來掇賺</tspan><tspan x="90" dy="34">這冊書，必定有些妙處，愈加珍秘。至三更時分，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

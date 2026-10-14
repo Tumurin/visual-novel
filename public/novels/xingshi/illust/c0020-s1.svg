@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世恆言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1025" cy="229" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L247,347 L448,343 L591,327 L742,339 L946,408 L1125,321 L1200,374 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,474 L0,474 L153,466 L313,434 L528,347 L756,387 L940,388 L1159,434 L1200,446 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,574 L0,574 L194,547 L417,530 L654,551 L913,432 L1153,482 L1200,500 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="414" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世恆言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十卷</text>
+<text x="90" y="544" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說楊洪一班押張權到了府中，侯爺在堂立等回話</tspan><tspan x="90" dy="34">。解將進去跪下，把東西放在一堂。楊洪稟道：「</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="喻世明言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="829" cy="172" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,407 L0,407 L241,374 L384,354 L571,396 L742,354 L946,379 L1108,398 L1200,400 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,527 L0,527 L220,414 L371,333 L546,334 L731,431 L956,369 L1143,434 L1200,471 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,601 L0,601 L246,423 L408,426 L579,521 L751,468 L982,381 L1191,478 L1200,546 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="420" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">喻世明言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十二卷　木綿庵鄭虎臣報冤</text>
+<text x="90" y="550" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">這一首詩，是張志遠所作。只為宋朝南渡以后，紹</tspan><tspan x="90" dy="34">興、淳熙年間息兵罷戰，君相自謂太平，縱情佚樂</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

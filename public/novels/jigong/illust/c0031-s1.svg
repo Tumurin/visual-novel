@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="976" cy="200" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,412 L0,412 L145,370 L330,408 L568,300 L778,350 L984,389 L1200,335 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,484 L0,484 L175,407 L401,415 L659,480 L874,457 L1095,343 L1200,330 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,606 L0,606 L254,418 L408,400 L580,524 L720,460 L918,534 L1060,488 L1200,462 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="400" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十一回</text>
+<text x="90" y="530" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">拿賊人完結奇案 施邪術妙興定計話說孟四雄拉刀</tspan><tspan x="90" dy="34">要殺濟公禪師，羅漢爺翻身扒起來，用手一指，口</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1025" cy="181" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,438 L0,438 L142,362 L303,307 L454,362 L630,367 L877,371 L1084,304 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,479 L0,479 L248,476 L457,472 L629,447 L821,359 L1057,478 L1200,456 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,585 L0,585 L235,482 L415,456 L637,526 L894,502 L1141,484 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="419" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第367回　黃天霸偷渡田家窪　衆英雄大破聚夾峯</text>
+<text x="90" y="549" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">天霸一見，便一聲大喝道：“俺老爺黃天霸在此！</tspan><tspan x="90" dy="34">狗強盜死在頭上，還不知道！軒轅廟已被咱老爺焚</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="736" cy="169" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,410 L0,410 L236,380 L418,409 L560,382 L707,376 L870,385 L1062,342 L1200,390 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,489 L0,489 L208,444 L449,443 L626,388 L880,420 L1131,419 L1200,424 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L153,445 L391,384 L558,448 L717,412 L898,405 L1151,473 L1200,529 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="401" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第332回　圖財害命反告誣栽　託夢申冤據情互控</text>
+<text x="90" y="531" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">王氏聽了，好不着急，當下即着家僮向各親友家尋</tspan><tspan x="90" dy="34">找，哪裏尋得到？王氏更加着急，整整啼哭了一夜</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

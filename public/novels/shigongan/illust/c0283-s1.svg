@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="898" cy="181" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L170,357 L364,371 L602,339 L828,347 L1037,359 L1196,302 L1200,326 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L218,459 L375,367 L618,403 L783,353 L1030,351 L1200,420 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L158,515 L401,484 L575,461 L780,428 L1005,499 L1200,520 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="413" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第283回　用奇刑假知縣招供　梟逆首勇副將監斬</text>
+<text x="90" y="543" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說毛如虎使出運氣功夫。施公笑道：“好大膽的</tspan><tspan x="90" dy="34">逆賊，本部堂早已制下一物，預備給你受用。今爾</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

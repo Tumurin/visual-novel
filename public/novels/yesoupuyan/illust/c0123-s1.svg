@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="759" cy="195" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,445 L0,445 L212,349 L438,351 L609,401 L857,379 L1004,376 L1192,319 L1200,328 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,500 L0,500 L232,347 L394,341 L572,391 L763,443 L959,460 L1200,431 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,588 L0,588 L147,559 L327,442 L514,461 L762,489 L966,523 L1191,403 L1200,404 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="411" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百二十二回  姊妹重逢驚智囊宅遠慮　主奴敘舊感鎮國之深恩</text>
+<text x="90" y="541" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">正在以心問心，靜觀自得，忽聽一片吶喊之聲，忙</tspan><tspan x="90" dy="34">問文敏。文敏道：“定是世子不知太師爺進園，在</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

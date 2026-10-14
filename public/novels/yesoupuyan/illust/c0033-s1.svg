@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="925" cy="165" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,434 L0,434 L236,406 L412,334 L656,393 L824,399 L997,354 L1160,340 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,489 L0,489 L239,416 L463,436 L669,395 L824,374 L1041,403 L1200,343 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,578 L0,578 L211,387 L450,410 L673,520 L824,497 L1015,483 L1200,418 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="421" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十三回  靳千戶雙賺鵲橋仙　劉大娘三犯江兒水</text>
+<text x="90" y="551" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">直到這日午飯以後，忽聽門個我聲鼎沸，宅內鑼聲</tspan><tspan x="90" dy="34">震天，不知何事。只見一個丫鬟提着一壺茶，撩在</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

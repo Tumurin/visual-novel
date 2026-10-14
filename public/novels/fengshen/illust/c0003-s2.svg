@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1036" cy="132" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,448 L0,448 L251,399 L412,369 L589,384 L779,345 L1008,395 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,482 L0,482 L243,418 L404,474 L645,471 L878,397 L1023,428 L1174,376 L1200,405 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,566 L0,566 L159,449 L333,380 L546,479 L717,429 L936,395 L1177,424 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="449" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三回    姬昌解圍進妲己</text>
+<text x="90" y="579" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">二將陣前尋鬥賭，兩下交鋒誰敢阻。這個似搖頭獅</tspan><tspan x="90" dy="34">子下山崗；那個如擺尾狻猊尋猛虎。這一個興心要</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="883" cy="162" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,442 L0,442 L161,353 L329,335 L541,399 L790,341 L958,344 L1098,338 L1200,351 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,509 L0,509 L257,394 L517,423 L698,478 L926,477 L1116,353 L1200,452 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,581 L0,581 L141,559 L360,453 L522,491 L690,447 L899,529 L1116,503 L1200,479 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="459" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十九回　西門慶貪欲喪命　吳月娘失偶生兒</text>
+<text x="90" y="589" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">原來金蓮從後邊來，還沒睡，渾衣倒在炕上，等待</tspan><tspan x="90" dy="34">西門慶。聽見來了，連忙一骨碌扒起來，向前替他</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

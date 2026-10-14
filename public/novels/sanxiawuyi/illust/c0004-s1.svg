@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="703" cy="168" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,403 L0,403 L140,360 L384,363 L598,385 L842,338 L1005,306 L1200,325 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,524 L0,524 L237,470 L393,403 L631,356 L891,367 L1072,421 L1200,473 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,564 L0,564 L236,557 L397,494 L633,496 L851,390 L1001,445 L1142,514 L1200,436 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="396" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四回     除妖魁包文正聯姻　受皇恩定遠縣赴任</text>
+<text x="90" y="526" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">包興帶領那人來在二葷鋪門口，便向眾人說道：「</tspan><tspan x="90" dy="34">眾位鄉親，倘我家相公不肯應允，欲要走時，求列</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

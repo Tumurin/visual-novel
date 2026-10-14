@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="851" cy="173" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,442 L0,442 L255,321 L438,371 L585,314 L748,397 L905,390 L1144,384 L1200,304 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,493 L0,493 L194,349 L373,465 L566,358 L795,378 L942,384 L1092,432 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L181,458 L379,520 L543,546 L765,452 L1001,425 L1163,459 L1200,485 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="470" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十五回  解翠蓮三回闖破載花船　白又李一手挽牢沉水索</text>
+<text x="90" y="600" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">容兒不待兩尼開言，就先說道：“爺救小尼等三命</tspan><tspan x="90" dy="34">，勝是重生父母！這些小事，家師們自當效勞！”</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

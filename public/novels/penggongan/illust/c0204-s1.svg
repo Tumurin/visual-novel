@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1025" cy="127" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L176,309 L381,323 L634,402 L802,321 L973,336 L1144,359 L1200,318 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,527 L0,527 L154,388 L373,371 L586,393 L840,430 L986,354 L1195,425 L1200,368 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,598 L0,598 L179,388 L415,524 L593,492 L737,518 L948,396 L1116,495 L1200,466 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="380" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二一九回  彭欽差西巡到慶陽  飛雲僧喝令殺大人</text>
+<text x="90" y="510" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">書中交代：這跑馬之人，並不是遠方來的，乃是本</tspan><tspan x="90" dy="34">處府城西門外五里小張家莊的人，姓張名和武，妻</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

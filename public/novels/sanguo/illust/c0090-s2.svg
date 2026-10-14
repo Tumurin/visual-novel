@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="997" cy="185" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,444 L0,444 L171,337 L342,321 L529,392 L677,387 L856,314 L1009,312 L1200,358 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L211,366 L393,418 L639,432 L789,348 L1034,468 L1184,441 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,563 L0,563 L171,411 L321,485 L463,524 L607,395 L790,544 L1005,505 L1164,445 L1200,550 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="406" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十回：驅巨獸六破蠻兵，燒藤甲七擒孟獲</text>
+<text x="90" y="536" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說孟獲與烏戈國主兀突骨曰：「諸葛亮多有巧計</tspan><tspan x="90" dy="34">，只是埋伏。今後交戰，分付三軍：但見山谷之中</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

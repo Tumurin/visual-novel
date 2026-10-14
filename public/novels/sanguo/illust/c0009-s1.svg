@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="896" cy="154" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L219,407 L369,394 L525,378 L782,323 L1041,315 L1200,365 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,497 L0,497 L205,361 L348,447 L508,387 L713,442 L879,375 L1043,477 L1200,439 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,553 L0,553 L143,454 L294,404 L437,403 L653,529 L882,475 L1128,463 L1200,449 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="441" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九回：除暴兇呂布助司徒，犯長安李傕聽賈詡</text>
+<text x="90" y="571" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">王允聽知西涼兵來，與呂布商議。布曰：「司徒放</tspan><tspan x="90" dy="34">心。量此鼠輩，何足數也！」遂引李肅將兵出敵。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

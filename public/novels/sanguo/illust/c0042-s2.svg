@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="949" cy="220" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,408 L0,408 L247,308 L498,355 L753,312 L1007,356 L1147,356 L1200,336 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,482 L0,482 L174,354 L332,461 L538,413 L735,368 L967,479 L1109,470 L1200,341 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,581 L0,581 L226,527 L445,485 L704,383 L956,497 L1193,472 L1200,470 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="381" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十二回：張翼德大鬧長板橋，劉豫州敗走漢津</text>
+<text x="90" y="511" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當頭那員大將，手執青龍刀，坐下赤兔馬。原來是</tspan><tspan x="90" dy="34">關雲長，去江夏惜得軍馬一萬，探知當陽長板大戰</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

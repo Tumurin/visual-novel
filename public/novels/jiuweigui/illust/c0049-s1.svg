@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="九尾龜">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="880" cy="205" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,451 L0,451 L178,368 L438,407 L690,359 L850,319 L1012,410 L1200,354 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,498 L0,498 L251,440 L459,433 L710,360 L871,413 L1125,427 L1200,474 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L244,488 L433,459 L575,401 L795,499 L1004,380 L1159,554 L1200,513 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="412" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">九尾龜</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十八回　章秋谷驚散野鴛鴦　霍春榮排演花蝴蝶</text>
+<text x="90" y="542" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">那班流氓見破了他的道兒，心中大怒，一齊回過身</tspan><tspan x="90" dy="34">來要與秋谷尋事；及見秋谷身上衣裳穿得甚是齊整</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

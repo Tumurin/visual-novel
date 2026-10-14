@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="鏡花緣">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="952" cy="195" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,409 L0,409 L142,381 L292,369 L545,391 L767,358 L1004,355 L1189,407 L1200,388 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,498 L0,498 L215,438 L367,471 L558,404 L814,453 L1001,334 L1200,368 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,591 L0,591 L189,473 L334,471 L532,497 L710,391 L885,448 L1116,447 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="441" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">鏡花緣</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十三回     粉面郎纏足受困　長鬚女玩股垂情</text>
+<text x="90" y="571" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">正在著慌，又有幾個中年宮娥走來，都是身高體壯</tspan><tspan x="90" dy="34">，滿嘴鬍鬚。內中一個白鬚宮娥，手拿針線，走到</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

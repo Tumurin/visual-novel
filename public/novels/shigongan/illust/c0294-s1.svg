@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="792" cy="175" r="48" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L171,341 L343,305 L530,373 L690,309 L891,379 L1073,350 L1200,368 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L178,380 L413,479 L581,468 L808,372 L1039,392 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,597 L0,597 L243,503 L487,479 L639,476 L887,525 L1144,430 L1200,483 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="382" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第294回　餘成龍激走褚標　賀人傑智誘任勇</text>
+<text x="90" y="512" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">走了半日，已到嶺上，便望寨柵前門行去。卻好今</tspan><tspan x="90" dy="34">日是任勇巡哨，剛至柵門，猛見山下走上一個年幼</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

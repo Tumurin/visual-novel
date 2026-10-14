@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世姻緣傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="949" cy="193" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,456 L0,456 L251,397 L457,360 L656,341 L849,352 L1046,378 L1200,393 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,521 L0,521 L222,421 L438,333 L618,421 L867,367 L1115,475 L1200,387 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,592 L0,592 L198,389 L366,498 L602,445 L816,388 L989,445 L1161,458 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="465" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世姻緣傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十回  童寄姐報冤前世 小珍珠償命今生</text>
+<text x="90" y="595" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一日，將午的時候，寄姐不在面前，童奶奶袖了幾</tspan><tspan x="90" dy="34">個槓子火燒，要從窗縫送進與他，喚了幾聲不見答</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

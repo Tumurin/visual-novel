@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="787" cy="186" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,424 L0,424 L260,345 L404,314 L587,358 L820,394 L1062,376 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L189,374 L346,409 L512,399 L657,333 L864,332 L1068,406 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,597 L0,597 L167,460 L326,538 L473,454 L717,446 L899,463 L1048,556 L1200,408 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="396" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十回　殺番兵岳雲保家屬贈赤兔關鈴結義兄</text>
+<text x="90" y="526" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">岳雲聽了，提錘上馬。兩人直在山坡之下，各顯手</tspan><tspan x="90" dy="34">段，戰了四五十合，未分勝負。公子暗想：“這樣</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

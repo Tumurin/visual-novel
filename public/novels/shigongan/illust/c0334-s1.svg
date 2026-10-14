@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1031" cy="184" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L172,365 L376,302 L541,408 L757,367 L957,397 L1158,348 L1200,400 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,482 L0,482 L223,398 L365,388 L594,473 L802,480 L1041,457 L1200,406 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L239,455 L495,506 L635,535 L884,411 L1037,438 L1200,543 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="404" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第334回　據案推詳終求定讞　嚴刑審問立破奸謀</text>
+<text x="90" y="534" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">刁祖謀見問，即磕了一個頭，便將如何合本，如何</tspan><tspan x="90" dy="34">被串騙的話，枉說一遍。施公大怒，說出青石綁縛</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="759" cy="198" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,439 L0,439 L143,308 L319,303 L503,312 L669,322 L868,334 L1024,346 L1197,406 L1200,333 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,476 L0,476 L187,374 L418,334 L635,445 L785,445 L984,457 L1200,444 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,561 L0,561 L149,518 L313,462 L502,446 L719,454 L886,513 L1100,506 L1200,420 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="460" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十四回    土行孫立功顯耀</text>
+<text x="90" y="590" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當日鄧九公父子著傷，日夜煎熬。四將在營商議：</tspan><tspan x="90" dy="34">「今主帥帶傷，不能取勝西岐，奈何？」正議論間</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

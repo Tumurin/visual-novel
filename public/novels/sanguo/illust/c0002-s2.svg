@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="946" cy="167" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L235,371 L479,343 L737,396 L921,378 L1089,354 L1200,336 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,480 L0,480 L163,438 L393,390 L634,369 L828,447 L1040,341 L1200,441 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L191,429 L393,547 L620,517 L856,426 L1066,417 L1200,466 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="448" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二回：張翼德怒鞭督郵，何國舅謀誅宦豎</text>
+<text x="90" y="578" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">不五十日，報捷，江夏平。詔封堅為烏程侯；封劉</tspan><tspan x="90" dy="34">虞為幽州牧，領兵往漁陽征張舉、張純。代州劉恢</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

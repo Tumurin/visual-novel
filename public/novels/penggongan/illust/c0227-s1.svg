@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="797" cy="159" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L153,381 L316,352 L520,382 L713,343 L855,357 L1090,374 L1200,346 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,481 L0,481 L188,364 L394,445 L580,337 L779,357 L1005,439 L1200,466 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L238,448 L484,478 L696,550 L853,470 L1039,524 L1185,406 L1200,528 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="432" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二四二回  鬥江珠英雄被騙  報舊恩細說前情</text>
+<text x="90" y="562" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一擺短把軋油錘說：“小輩休往前走，你可認識紀</tspan><tspan x="90" dy="34">老爺？”胡牛一看，見紀逢春個子不高，身穿紫花</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

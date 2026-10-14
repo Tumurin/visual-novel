@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1043" cy="180" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L220,302 L408,364 L569,325 L786,373 L1033,333 L1200,395 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,494 L0,494 L187,458 L392,405 L649,467 L863,447 L1022,336 L1200,352 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,582 L0,582 L181,449 L333,472 L484,521 L677,402 L848,421 L1000,504 L1181,437 L1200,380 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="386" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百三十二回  記前仇公館雙行刺  念舊恩保護彭大人</text>
+<text x="90" y="516" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">這三鬼每逢到趕集的日子，就去抓集。做小買賣的</tspan><tspan x="90" dy="34">人，沒有不怕他們的，人人怨聲載道。石鑄要是在</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

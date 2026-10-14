@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="924" cy="220" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L254,403 L488,383 L639,343 L813,300 L998,307 L1191,387 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,527 L0,527 L172,463 L365,387 L602,345 L751,348 L1003,429 L1181,476 L1200,425 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,569 L0,569 L206,446 L391,499 L588,481 L844,424 L985,512 L1200,382 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="462" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第472回　負冤鬼三更託夢　誠孝子滿心懷疑</text>
+<text x="90" y="592" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說天霸與人傑一路回來，到了驛館，已是日光東</tspan><tspan x="90" dy="34">出。關小西見他回來，連忙問道：“齊星樓可易破</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

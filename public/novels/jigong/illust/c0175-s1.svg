@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="909" cy="192" r="50" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L207,388 L362,332 L529,356 L729,371 L979,308 L1197,348 L1200,338 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,490 L0,490 L156,394 L357,443 L560,367 L751,383 L906,355 L1151,347 L1200,431 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L164,492 L305,454 L487,462 L715,523 L912,411 L1106,556 L1200,449 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="447" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百七十五回</text>
+<text x="90" y="577" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">秉良心公堂釋好漢 訪故友夫妻得團圓話說濟公禪</tspan><tspan x="90" dy="34">師來到裏面，給陸炳文一看，夫人、少爺、小姐都</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

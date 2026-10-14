@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="917" cy="128" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,444 L0,444 L234,357 L464,371 L649,337 L832,385 L1039,327 L1200,300 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L260,469 L403,362 L596,352 L777,355 L991,409 L1136,416 L1200,480 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,585 L0,585 L165,499 L409,523 L582,450 L842,411 L1074,558 L1200,382 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="446" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十回　趙斌夜探閣天樓 英雄仗義救公子</text>
+<text x="90" y="576" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說濟公在院中燒香請韋馱，只聽房上一聲喊嚷：</tspan><tspan x="90" dy="34">"吾神來也！"書中交代：來者可並非是真韋馱。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

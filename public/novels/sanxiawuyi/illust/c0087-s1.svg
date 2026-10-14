@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="840" cy="240" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,437 L0,437 L249,324 L418,363 L661,348 L892,350 L1077,353 L1200,402 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,530 L0,530 L174,359 L404,478 L640,461 L828,369 L977,440 L1117,337 L1200,343 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,560 L0,560 L219,516 L422,473 L594,530 L853,393 L1096,468 L1200,489 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="454" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十七回     為知己三雄訪沙龍　因救人四義撇艾虎</text>
+<text x="90" y="584" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">蔣爺聽了，暗暗點頭，道：「好小子！拿著廝殺對</tspan><tspan x="90" dy="34">壘當熱鬧兒。真好膽量，好心胸！但只一件，歐陽</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

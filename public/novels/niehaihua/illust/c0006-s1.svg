@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="孽海花">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="840" cy="225" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,421 L0,421 L193,304 L446,389 L666,347 L850,391 L1060,401 L1200,314 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L212,462 L410,465 L670,373 L926,435 L1184,477 L1200,366 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,565 L0,565 L172,543 L431,559 L612,549 L859,550 L1004,383 L1158,429 L1200,471 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="389" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">孽海花</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六回    獻繩技唱黑旗戰史　聽笛聲追白傅遺蹤</text>
+<text x="90" y="519" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">有話即長，無話即短。不覺春來秋往，忽忽過了兩</tspan><tspan x="90" dy="34">年。那時正鬧著法、越的戰事，在先秉國鈞的原是</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

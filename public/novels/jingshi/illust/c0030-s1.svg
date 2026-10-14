@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="739" cy="218" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,425 L0,425 L216,306 L474,323 L625,368 L829,322 L1068,319 L1200,347 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,514 L0,514 L164,432 L339,435 L488,373 L738,425 L901,347 L1143,409 L1200,398 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,553 L0,553 L177,542 L326,498 L550,414 L708,474 L894,444 L1149,393 L1200,408 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="422" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十卷    金明池吳清逢愛愛</text>
+<text x="90" y="552" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">小員外員為情牽意惹，不隔兩日，少不得去伴女兒</tspan><tspan x="90" dy="34">一宵。只一件，但見女兒時，自家覺得精神百倍，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

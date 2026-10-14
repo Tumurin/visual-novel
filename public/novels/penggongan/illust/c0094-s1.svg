@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="744" cy="124" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L181,336 L355,353 L546,319 L687,351 L899,385 L1043,305 L1200,394 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,526 L0,526 L258,427 L495,416 L727,340 L906,336 L1107,415 L1200,477 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L257,384 L513,421 L662,453 L914,524 L1137,479 L1200,542 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="463" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十四回  衆英雄三探畫春園  劉德太中計被賊獲</text>
+<text x="90" y="593" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">他飛身上牆，站在上面，向東一看，見那裏是一片</tspan><tspan x="90" dy="34">宅院。縱身跳了下去，忽見眼前有一個人立在樹後</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

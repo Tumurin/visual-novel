@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="955" cy="126" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,408 L0,408 L217,319 L462,346 L705,345 L849,406 L996,355 L1200,381 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,499 L0,499 L157,357 L297,359 L493,408 L733,377 L928,457 L1161,472 L1200,407 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L216,524 L445,430 L619,380 L878,459 L1033,480 L1200,443 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="393" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十七回　山獅駝兵阻界山楊繼周力敵番將</text>
+<text x="90" y="523" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">你且來試試我小爺的刀看。”山獅駝道：“不中抬</tspan><tspan x="90" dy="34">舉的小狗才，不聽我的好話，賞你一釒黨罷！”噹</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="824" cy="210" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,433 L0,433 L168,329 L368,405 L553,318 L763,305 L938,379 L1120,358 L1200,389 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,470 L0,470 L227,426 L486,430 L684,474 L867,456 L1024,346 L1200,355 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,606 L0,606 L172,537 L335,541 L533,535 L691,559 L905,472 L1055,547 L1200,399 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="393" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二回　史大郎夜走華陰縣　魯提轄拳打鎮關西</text>
+<text x="90" y="523" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">兩個挽了肐膊，出得茶坊來，上街行得三五十步，</tspan><tspan x="90" dy="34">只見一簇衆人圍住白地上。史進道：「兄長，我們</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="今古奇觀">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="778" cy="225" r="68" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,435 L0,435 L184,361 L393,310 L610,342 L771,359 L1010,388 L1192,393 L1200,370 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L196,382 L455,368 L711,442 L861,334 L1104,395 L1200,351 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,592 L0,592 L253,518 L430,405 L680,401 L869,436 L1031,423 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="392" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">今古奇觀</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十一卷　吳保安棄家贖友</text>
+<text x="90" y="522" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">其時，郭仲翔也被擄去。細奴邏見他丰神不凡，叩</tspan><tspan x="90" dy="34">問之，方知是郭元振之侄，遂給與本洞頭目烏羅部</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

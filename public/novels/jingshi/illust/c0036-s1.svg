@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="929" cy="205" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,458 L0,458 L246,373 L494,315 L640,360 L786,330 L972,342 L1196,367 L1200,310 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,484 L0,484 L236,358 L467,474 L647,462 L841,446 L1030,395 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,584 L0,584 L160,455 L407,517 L665,486 L877,429 L1035,400 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="412" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十六卷    皂角林大王假形</text>
+<text x="90" y="542" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">知縣大驚，問廟官：「春秋祭賽何物？」廟官復知</tspan><tspan x="90" dy="34">縣：「春間賽七歲花男，秋間賽個女兒。都是地方</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

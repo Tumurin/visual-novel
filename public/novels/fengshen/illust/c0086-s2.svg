@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="963" cy="187" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,420 L0,420 L247,375 L462,407 L717,370 L933,387 L1155,346 L1200,345 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,490 L0,490 L200,457 L374,359 L550,403 L767,391 L942,387 L1177,387 L1200,437 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L170,473 L314,525 L557,387 L755,470 L991,490 L1180,427 L1200,536 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="452" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十六回    澠池縣五岳歸天</text>
+<text x="90" y="582" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說子牙吩咐：「誰去澠池縣取頭一功？」南宮适</tspan><tspan x="90" dy="34">應聲願往，領令出營，至城下搦戰。張奎聞報，問</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

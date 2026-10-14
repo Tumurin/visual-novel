@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="紅樓夢">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="865" cy="199" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,420 L0,420 L206,380 L399,319 L597,396 L748,402 L992,410 L1156,403 L1200,316 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,470 L0,470 L157,344 L315,346 L523,406 L688,453 L868,335 L1021,342 L1188,444 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,576 L0,576 L250,390 L488,509 L716,464 L873,483 L1121,521 L1200,467 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="448" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">紅樓夢</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十三回　　痴丫頭誤拾繡春囊　懦小姐不問累金鳳</text>
+<text x="90" y="578" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說那趙姨娘和賈政說話，忽听外面一聲響，不知</tspan><tspan x="90" dy="34">何物．忙問時，原來是外間窗□不曾扣好，塌了屈</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

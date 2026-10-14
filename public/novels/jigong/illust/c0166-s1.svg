@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="987" cy="181" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,438 L0,438 L244,384 L436,391 L605,409 L780,401 L1000,351 L1179,367 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,484 L0,484 L260,355 L469,362 L699,362 L932,389 L1129,455 L1200,341 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,579 L0,579 L244,511 L478,425 L644,540 L881,395 L1064,393 L1200,420 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="453" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百六十六回</text>
+<text x="90" y="583" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">鄭雄也只得陪着。喝到了天交三更，忽見由房上跳</tspan><tspan x="90" dy="34">下一個人來，鄭雄一看，來者正是神拳羅漢法元，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

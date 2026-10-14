@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="今古奇觀">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="846" cy="175" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,431 L0,431 L208,367 L430,354 L611,326 L838,321 L1008,370 L1149,386 L1200,348 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L186,373 L335,453 L528,370 L735,393 L990,397 L1200,460 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,602 L0,602 L223,494 L406,407 L590,472 L772,401 L915,516 L1125,532 L1200,518 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="433" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">今古奇觀</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十六卷　李講公窮邸遇俠客</text>
+<text x="90" y="563" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">房德原是沒主意的人，被老婆這班後話一聳，漸生</tspan><tspan x="90" dy="34">疑惑，沉吟不語。貝氏又道：“總來這恩是報不得</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,46 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "中國古典小說線上閱讀書庫" } = Astro.props;
+---
+
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <script is:inline>
+      // 在繪製前還原主題與字級，避免閃爍
+      try {
+        var t = localStorage.getItem("vn:theme");
+        if (t) {
+          document.documentElement.dataset.theme = t;
+          document.documentElement.style.colorScheme = t === "ink" ? "dark" : "light";
+        }
+        var f = parseInt(localStorage.getItem("vn:fs"), 10);
+        var L = [16, 18, 19, 21, 24];
+        if (f >= 0 && f < L.length)
+          document.documentElement.style.setProperty("--reader-fs", L[f] + "px");
+      } catch (e) {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="min-h-screen antialiased">
+    <a href="#main-content" class="skip-link">跳到內容</a>
+    <slot />
+  </body>
+</html>

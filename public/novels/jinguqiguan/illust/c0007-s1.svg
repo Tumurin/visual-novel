@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="今古奇觀">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="991" cy="134" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,449 L0,449 L212,342 L366,373 L570,374 L829,384 L999,320 L1177,311 L1200,327 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,505 L0,505 L154,351 L295,415 L529,387 L692,349 L840,438 L1033,459 L1193,430 L1200,458 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,574 L0,574 L204,445 L348,541 L588,403 L809,440 L1006,482 L1179,444 L1200,467 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="408" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">今古奇觀</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七卷　賣油郎獨佔花魁</text>
+<text x="90" y="538" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">從來梳弄的子弟早起時，媽兒進房賀喜，行戶中都</tspan><tspan x="90" dy="34">來稱慶，還要喫幾日喜酒。那子弟多則住一二月，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

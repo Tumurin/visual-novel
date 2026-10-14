@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="775" cy="202" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,412 L0,412 L245,311 L404,327 L568,337 L759,314 L954,384 L1141,332 L1200,317 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L209,478 L419,364 L670,351 L885,450 L1059,335 L1200,457 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,588 L0,588 L183,427 L349,530 L587,476 L836,558 L1087,504 L1200,541 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="409" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百一十回  焦面鬼大鬧公館  焦振遠劫牢反獄</text>
+<text x="90" y="539" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">焦仁吩咐莊兵鳴鑼，不多時，山前山後，山左山右</tspan><tspan x="90" dy="34">，一百零八村處處大寨鑼響，衆人不敢不來，都知</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

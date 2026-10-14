@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="871" cy="186" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,429 L0,429 L163,410 L358,390 L528,404 L677,406 L832,399 L989,320 L1151,366 L1200,383 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,511 L0,511 L177,422 L357,428 L551,344 L692,347 L938,452 L1169,400 L1200,462 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,596 L0,596 L227,518 L479,424 L700,459 L902,508 L1088,447 L1200,455 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="427" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第425回　大樹林虎鸞遁跡　花豹村人傑尋蹤</text>
+<text x="90" y="557" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">計全背後插着一柄單刀，賀人傑腰間掛着一雙銅錘</tspan><tspan x="90" dy="34">。花熊看畢，甚是不解，便讓計全、人傑二人到了</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

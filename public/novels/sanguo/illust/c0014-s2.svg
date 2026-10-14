@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="792" cy="219" r="46" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,400 L0,400 L207,335 L451,399 L693,337 L842,379 L1033,326 L1200,385 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L252,467 L509,369 L673,473 L824,476 L1072,465 L1200,378 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L152,422 L307,394 L549,544 L731,504 L937,393 L1150,531 L1200,554 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="460" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十四回：曹孟德移駕幸許都，呂奉先乘夜襲徐郡</text>
+<text x="90" y="590" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，李傕軍馬來迎操兵。操先令許褚，曹仁，典</tspan><tspan x="90" dy="34">韋，領三百鐵騎，於傕陣中衝突三遭，方纔布陣。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

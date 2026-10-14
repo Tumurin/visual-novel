@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="994" cy="214" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,429 L0,429 L149,305 L353,385 L593,326 L765,324 L998,369 L1164,313 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,525 L0,525 L246,448 L434,364 L686,476 L888,365 L1081,451 L1200,419 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L161,386 L323,475 L554,554 L707,442 L878,431 L1107,438 L1200,470 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="388" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十四回    哪吒現蓮花化身</text>
+<text x="90" y="518" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說李靖因東伯姜文煥為父報仇，調四十萬人馬，</tspan><tspan x="90" dy="34">遊魂關大戰竇榮，榮不能取勝。李靖在野馬嶺操演</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="911" cy="206" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L187,364 L333,405 L563,326 L784,391 L1004,338 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L192,380 L409,462 L587,378 L771,406 L1003,405 L1195,339 L1200,400 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,588 L0,588 L172,462 L344,480 L494,394 L728,477 L967,531 L1153,423 L1200,504 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="406" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第518回　審淫婦戴氏據口供　治姦夫高飛處罪刑</text>
+<text x="90" y="536" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">當時四下圍了上來，只是不敢動手，命一個頭目匆</tspan><tspan x="90" dy="34">匆的去飛報上山。隔了一會，只見一人，單身舞動</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

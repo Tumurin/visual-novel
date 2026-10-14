@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="768" cy="131" r="53" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L256,363 L516,317 L762,395 L977,334 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,489 L0,489 L215,406 L443,348 L619,468 L858,409 L1046,399 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L213,407 L383,514 L611,432 L778,530 L1024,436 L1200,433 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="429" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十七回     獨龍橋盟兄擒義弟　開封府包相保賢豪</text>
+<text x="90" y="559" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">蔣爺笑道：「你願聽，我就說與你聽。你說你到過</tspan><tspan x="90" dy="34">皇宮內院，忠義祠題詩，萬代壽山前殺命，奏折內</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

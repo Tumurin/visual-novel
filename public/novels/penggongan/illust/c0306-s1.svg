@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1028" cy="126" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,425 L0,425 L167,379 L403,407 L573,376 L751,383 L935,310 L1114,383 L1200,367 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,523 L0,523 L227,421 L372,377 L536,336 L742,426 L932,442 L1149,412 L1200,407 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L257,424 L474,480 L678,407 L905,523 L1099,550 L1200,461 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="392" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三二一回  鑌鐵塔大獲全勝  忠義俠夜劫番營</text>
+<text x="90" y="522" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">常清這才一聲喊嚷，說：“老英雄，把這件功勞讓</tspan><tspan x="90" dy="34">與我吧！”老英雄不肯跟常清爭功，往旁邊一閃說</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

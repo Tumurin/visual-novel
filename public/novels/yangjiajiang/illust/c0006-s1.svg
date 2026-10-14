@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="898" cy="181" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,445 L0,445 L151,325 L380,361 L521,327 L757,356 L920,358 L1104,385 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,515 L0,515 L150,405 L370,423 L542,426 L772,438 L966,374 L1198,369 L1200,374 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L228,531 L487,560 L670,497 L886,501 L1142,380 L1200,435 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="393" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六回　潘仁美奉詔宣召　呼延贊單騎救駕</text>
+<text x="90" y="523" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">時值太平興國元年二月初一日，太宗視朝畢，下命</tspan><tspan x="90" dy="34">詣太廟行香。時諸臣皆於內前立着起屠碑，以防禦</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

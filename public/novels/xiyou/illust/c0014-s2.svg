@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="866" cy="209" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,414 L0,414 L181,377 L378,399 L638,360 L852,309 L1007,337 L1149,408 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,508 L0,508 L252,453 L471,475 L652,391 L826,366 L995,385 L1200,377 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,560 L0,560 L167,526 L333,397 L542,554 L684,391 L927,459 L1142,397 L1200,477 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="464" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第十四回     心猿歸正　六賊無蹤</text>
+<text x="90" y="594" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">兩個前進，長老在馬上問道：「悟空，你才打虎的</tspan><tspan x="90" dy="34">鐵棒，如何不見？」行者笑道：「師父，你不曉得</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

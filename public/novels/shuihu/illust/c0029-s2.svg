@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="936" cy="124" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,428 L0,428 L239,315 L460,339 L693,391 L927,309 L1175,373 L1200,310 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,502 L0,502 L210,340 L458,460 L694,477 L840,335 L1062,377 L1200,432 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L189,380 L407,429 L554,420 L774,393 L974,494 L1118,551 L1200,545 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="400" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十九回　施恩三入死囚牢　武松大鬧飛雲浦</text>
+<text x="90" y="530" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">衆軍漢把武松一步一棍打到廳前，武松叫道：「我</tspan><tspan x="90" dy="34">不是賊，是武松！」張都監看了大怒，變了面皮，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

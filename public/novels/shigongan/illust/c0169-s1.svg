@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="728" cy="212" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,453 L0,453 L207,302 L433,358 L678,361 L935,397 L1166,382 L1200,340 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,530 L0,530 L179,425 L368,348 L583,448 L831,382 L1027,366 L1200,366 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,604 L0,604 L140,435 L297,485 L488,457 L670,428 L829,448 L1051,543 L1200,511 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="428" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第169回　探消息施公淨宅　辦差使吳徐領籤</text>
+<text x="90" y="558" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說那暗訪的賢臣，手拿卦板，肩背小藍包袱，自</tspan><tspan x="90" dy="34">從與黃天霸分手之後，又奔了東街。登時到小衚衕</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

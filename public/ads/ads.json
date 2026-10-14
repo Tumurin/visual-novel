@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qinglong-knife",
+    "brand": "青龍牌菜刀",
+    "slogan": "偃月刀能誅文醜，青龍刀能剁排骨",
+    "image": "/ads/qinglong-knife.svg",
+    "cta": "立即選購",
+    "url": "#"
+  },
+  {
+    "id": "wolong-tea",
+    "brand": "臥龍茶",
+    "slogan": "運籌帷幄之中，先泡一杯臥龍",
+    "image": "/ads/wolong-tea.svg",
+    "cta": "品味出山",
+    "url": "#"
+  },
+  {
+    "id": "jishiyu-drink",
+    "brand": "及時雨",
+    "slogan": "梁山好漢的運動補給飲料",
+    "image": "/ads/jishiyu-drink.svg",
+    "cta": "及時補水",
+    "url": "#"
+  }
+]

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="999" cy="174" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L156,349 L305,364 L538,393 L795,308 L937,360 L1115,353 L1200,371 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,518 L0,518 L207,334 L417,390 L642,455 L878,392 L1125,425 L1200,428 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,586 L0,586 L185,556 L326,554 L466,538 L609,558 L861,400 L1008,434 L1192,458 L1200,400 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第112回　小銀槍鏖戰關太　衆綠林箭射施公</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說衆寇見小西輕冒刀鋒，張口咬住利刃，個個喝</tspan><tspan x="90" dy="34">采，都說倒是硬漢子，不愧久闖江湖。盜寇內中惟</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

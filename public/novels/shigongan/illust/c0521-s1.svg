@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="814" cy="190" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,424 L0,424 L215,394 L391,338 L552,327 L753,371 L1010,397 L1200,366 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,517 L0,517 L207,476 L355,451 L591,335 L770,422 L973,474 L1200,347 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,568 L0,568 L233,418 L401,509 L595,446 L753,546 L931,558 L1073,497 L1200,452 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="464" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第521回　籌計策細閱樓圖　逞威風獨臨戰陣</text>
+<text x="90" y="594" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">孫勇曉得不好，欲待轉身，已來不及，只得用了一</tspan><tspan x="90" dy="34">個調虎離山的身法，兩足運了氣力，腳尖在下踮了</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

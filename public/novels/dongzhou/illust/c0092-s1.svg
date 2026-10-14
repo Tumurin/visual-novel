@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="770" cy="163" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L230,300 L398,307 L538,346 L765,382 L966,368 L1177,307 L1200,347 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L206,473 L400,455 L588,452 L821,347 L1061,432 L1200,417 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,566 L0,566 L155,407 L354,396 L496,512 L752,388 L919,447 L1165,390 L1200,528 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="469" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十二回　賽舉鼎秦武王絕脛　莽赴會楚懷王陷秦</text>
+<text x="90" y="599" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">右相樗裏疾言於武王曰：“秦師老矣，不撤回，恐</tspan><tspan x="90" dy="34">有變。"武王召甘茂班師，甘茂乃爲書一函，以謝</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

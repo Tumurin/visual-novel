@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="834" cy="192" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,409 L0,409 L239,334 L418,378 L566,380 L782,409 L969,365 L1195,377 L1200,303 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,528 L0,528 L187,331 L409,402 L602,342 L802,472 L997,361 L1200,465 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L147,391 L352,480 L528,496 L710,417 L908,474 L1148,396 L1200,533 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="427" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十三回　嶽元帥大破五方陣楊再興誤走小商河</text>
+<text x="90" y="557" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">前言不表，閒話慢提。單說岳元帥帶領大兵，齊出</tspan><tspan x="90" dy="34">潭州城外，紮下大營。是日，元帥升帳，聚集一班</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

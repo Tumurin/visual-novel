@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="歧路燈">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="773" cy="147" r="64" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,439 L0,439 L194,397 L452,385 L600,370 L859,341 L1044,361 L1200,304 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,525 L0,525 L224,343 L406,431 L554,333 L736,371 L944,366 L1125,333 L1200,412 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L205,477 L408,545 L564,508 L734,501 L919,544 L1151,522 L1200,558 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="458" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">歧路燈</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九回　柏永齡明君臣大義　譚孝移動父子至情</text>
+<text x="90" y="588" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">二公坐下，蝦蟆送的茶來。德喜也站在院裏。柏公</tspan><tspan x="90" dy="34">吩咐道：“蝦蟆，你同譚老爺管家，把條几上書送</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

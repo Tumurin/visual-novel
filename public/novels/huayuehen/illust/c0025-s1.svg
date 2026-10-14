@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="花月痕">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="967" cy="232" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,440 L0,440 L168,366 L350,332 L573,399 L742,397 L987,386 L1164,362 L1200,326 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,509 L0,509 L222,434 L427,468 L676,423 L854,474 L1112,454 L1200,470 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,593 L0,593 L205,440 L365,457 L508,560 L649,391 L888,398 L1140,433 L1200,532 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="454" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">花月痕</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十五回　影中影快談紅樓夢　恨裏恨高詠綺懷詩</text>
+<text x="90" y="584" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">綠章不爲春陰乞，願借東風着意吹。</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

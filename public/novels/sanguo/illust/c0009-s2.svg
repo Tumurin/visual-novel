@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="852" cy="150" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,422 L0,422 L198,322 L405,405 L574,342 L827,327 L1068,322 L1200,370 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,488 L0,488 L174,353 L360,417 L505,442 L731,421 L914,384 L1153,359 L1200,372 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,599 L0,599 L195,485 L397,535 L633,420 L806,394 L1004,556 L1200,532 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="400" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九回：除暴兇呂布助司徒，犯長安李傕聽賈詡</text>
+<text x="90" y="530" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">王允時在帝側，聞知此言，奏曰：「臣本為社稷計</tspan><tspan x="90" dy="34">。事已至此，陛下不可惜臣，以誤國家。臣請下見</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

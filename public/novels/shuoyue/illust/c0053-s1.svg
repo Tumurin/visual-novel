@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="973" cy="188" r="51" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L202,410 L393,364 L594,407 L746,362 L998,323 L1189,338 L1200,347 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L194,393 L376,458 L633,448 L871,454 L1039,396 L1200,355 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,555 L0,555 L222,480 L375,535 L536,407 L678,513 L849,476 L1061,460 L1200,522 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="441" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三回，卻沒有了！”元帥道：“凡事總由天命，賢弟何必着</text>
+<text x="90" y="571" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">來到水口，下了小船，開到對岸。二人上馬，來至</tspan><tspan x="90" dy="34">城下，對城上軍士說道：“相煩通報元帥，說楊欽</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="儒林外史">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="977" cy="216" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,406 L0,406 L257,397 L423,400 L652,375 L832,406 L1061,396 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,512 L0,512 L142,345 L341,436 L532,463 L765,407 L960,341 L1123,358 L1200,442 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L155,426 L313,389 L557,548 L714,485 L936,464 L1117,497 L1200,532 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="424" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">儒林外史</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一回　說楔子敷陳大義　借名流隱括全文</text>
+<text x="90" y="554" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">“人生南北多歧路，將相神仙，也要凡人做。百代</tspan><tspan x="90" dy="34">興亡朝复暮，江風吹倒前朝樹。功名富貴無憑据，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

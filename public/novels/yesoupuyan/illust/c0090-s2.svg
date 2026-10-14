@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="野叟曝言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1047" cy="225" r="70" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,420 L0,420 L234,328 L413,312 L632,340 L890,340 L1038,312 L1183,331 L1200,382 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L243,471 L471,448 L667,479 L902,478 L1106,405 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,605 L0,605 L216,490 L436,487 L667,445 L841,411 L1014,493 L1200,460 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="469" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">野叟曝言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十九回  國師束身雙闕佛法無靈　指揮傳首九邊皇威有赫</text>
+<text x="90" y="599" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日清晨，復下教場看操，各營兵十分略有起色。</tspan><tspan x="90" dy="34">各衛俱剩的疲兵，如何整頓得起？當把各衛極疲之</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

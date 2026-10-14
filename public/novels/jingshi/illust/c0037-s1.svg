@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="796" cy="135" r="55" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,446 L0,446 L212,390 L400,376 L628,407 L857,310 L1076,357 L1200,363 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,492 L0,492 L169,459 L425,333 L605,355 L850,396 L1056,470 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L152,478 L347,507 L506,477 L757,412 L967,540 L1108,490 L1200,445 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="389" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十七卷    萬秀娘仇報山亭兒</text>
+<text x="90" y="519" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">萬秀娘哭了，口中不說，心下尋思道：「苗忠底賊</tspan><tspan x="90" dy="34">！你劫了我錢物，殺了我哥哥，又殺了當直周吉，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

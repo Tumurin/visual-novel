@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="750" cy="232" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,460 L0,460 L159,406 L326,365 L499,379 L717,347 L950,332 L1196,309 L1200,391 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,473 L0,473 L169,447 L315,370 L538,456 L703,407 L946,475 L1088,366 L1200,376 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,582 L0,582 L236,495 L395,472 L581,550 L769,383 L996,455 L1175,434 L1200,526 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="450" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第八十四回　智伯決水灌晉陽　豫讓擊衣報襄子</text>
+<text x="90" y="580" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">無恤之車，將近赤橋，其馬忽悲嘶卻步，御者連鞭</tspan><tspan x="90" dy="34">數策，亦不前進。張孟談進曰：“臣聞‘良驥不陷</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

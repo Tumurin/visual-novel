@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="851" cy="146" r="67" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,453 L0,453 L244,350 L456,341 L641,366 L861,383 L1111,379 L1200,371 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L240,378 L402,391 L596,361 L832,337 L994,404 L1200,360 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,587 L0,587 L250,532 L399,503 L569,502 L791,513 L1035,527 L1200,520 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="455" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第484回　小夫妻逃走殷家堡　賢郎舅約探齊星樓</text>
+<text x="90" y="585" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">人傑在前引路，躥林越樹，到了半山，那個樓前搭</tspan><tspan x="90" dy="34">個更棚，裏面點着個燈球，兩人在裏敲那更鼓。殷</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

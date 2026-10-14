@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="施公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="917" cy="148" r="57" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,433 L0,433 L194,359 L413,303 L578,410 L740,331 L914,380 L1156,341 L1200,313 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,488 L0,488 L256,391 L484,365 L733,351 L928,443 L1085,433 L1200,410 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L237,559 L482,387 L739,514 L988,542 L1129,400 L1200,438 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="468" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">施公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第37回　賢臣入虎穴　吊打問口話</text>
+<text x="90" y="598" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">義士想罷，連忙牽馬到店拴上，就將酒食煎炒喫盡</tspan><tspan x="90" dy="34">。天氣不早，腰帶利刃，起身出店，到關家堡打探</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

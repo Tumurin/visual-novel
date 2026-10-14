@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西遊記">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="844" cy="218" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,433 L0,433 L183,386 L331,357 L486,330 L698,397 L914,374 L1167,359 L1200,374 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,516 L0,516 L234,409 L405,446 L551,477 L706,480 L941,445 L1103,389 L1200,454 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,550 L0,550 L164,436 L308,557 L545,537 L736,409 L885,494 L1030,480 L1174,408 L1200,447 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="395" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">西遊記</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四一回     心猿遭火敗　木母被魔擒</text>
+<text x="90" y="525" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">大聖道：「等我捻著訣，鑽入火中。」掄鐵棒，尋</tspan><tspan x="90" dy="34">妖要打。那妖見他來到，將一口煙劈臉噴來。行者</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

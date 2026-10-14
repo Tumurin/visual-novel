@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="927" cy="190" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,402 L0,402 L238,386 L451,364 L672,327 L866,398 L1048,374 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,487 L0,487 L146,359 L349,330 L587,363 L759,361 L1007,363 L1164,464 L1200,426 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,566 L0,566 L144,516 L299,523 L461,446 L706,430 L898,441 L1147,472 L1200,541 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="451" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一一六回：鍾會分兵漢中道，武侯顯聖定軍山</text>
+<text x="90" y="581" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">僉大怒，厲聲罵曰：「忘恩背義之賊，有何面目見</tspan><tspan x="90" dy="34">天子乎！」撥回馬復與魏兵接戰。魏兵四面合來，</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

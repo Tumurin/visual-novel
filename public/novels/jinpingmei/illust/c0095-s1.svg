@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="金瓶梅詞話">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="869" cy="150" r="56" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,450 L0,450 L207,391 L437,330 L610,376 L764,405 L959,319 L1153,380 L1200,363 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,485 L0,485 L168,347 L317,458 L551,373 L779,357 L968,396 L1116,416 L1200,480 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,595 L0,595 L259,426 L470,549 L696,527 L930,411 L1093,493 L1200,480 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="403" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">金瓶梅詞話</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第九十五回　玳安兒竊玉成婚　吳典恩負心被辱</text>
+<text x="90" y="533" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">傅伙計拿狀子到巡簡司，實承望吳典恩看舊時分上</tspan><tspan x="90" dy="34">，領得頭面出來，不想反被吳典恩老狗奴才儘力罵</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

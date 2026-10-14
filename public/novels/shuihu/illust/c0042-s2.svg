@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="950" cy="231" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,406 L0,406 L217,348 L433,399 L579,307 L763,319 L940,310 L1172,356 L1200,358 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,504 L0,504 L218,469 L390,358 L556,473 L719,429 L974,477 L1196,398 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,551 L0,551 L209,471 L380,453 L550,471 L725,488 L906,460 L1156,472 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十二回　假李逵翦徑劫單身　黑旋風沂嶺殺四虎</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說當村裏知沂嶺殺了四個大蟲，擡到曹太公家，</tspan><tspan x="90" dy="34">講動了村坊道店，哄得前村後村，山僻人家，大男</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三國演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="810" cy="205" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,416 L0,416 L163,392 L399,348 L616,368 L853,330 L1013,355 L1167,387 L1200,327 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,512 L0,512 L176,456 L325,475 L536,410 L751,425 L928,372 L1147,410 L1200,351 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,572 L0,572 L214,556 L359,431 L511,466 L731,437 L922,419 L1162,457 L1200,415 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="452" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三國演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十二回：諸葛亮智辭魯肅，趙子龍計取桂陽</text>
+<text x="90" y="582" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">範急喚陳應，鮑隆商議。應曰：「這人發怒去了，</tspan><tspan x="90" dy="34">只索與他廝殺。」範曰：「但恐贏他不得。」鮑隆</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

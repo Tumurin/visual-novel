@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="封神演義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="992" cy="171" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L173,352 L360,408 L520,381 L738,372 L982,345 L1172,300 L1200,341 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,508 L0,508 L210,341 L412,362 L575,333 L830,368 L1084,359 L1200,439 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L202,433 L369,438 L605,452 L806,411 L972,484 L1172,502 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="412" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">封神演義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第七十五回    土行孫盜騎陷身</text>
+<text x="90" y="542" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">且說懼留孫將土行孫救出火焰之中，土行孫在內自</tspan><tspan x="90" dy="34">覺得不熱，不知何故。懼留孫來至周營。那夜是南</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

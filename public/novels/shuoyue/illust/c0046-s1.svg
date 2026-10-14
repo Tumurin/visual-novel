@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="說岳全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="921" cy="134" r="49" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,404 L0,404 L162,316 L314,301 L534,402 L690,349 L919,330 L1147,398 L1200,377 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,506 L0,506 L193,341 L365,424 L534,477 L725,386 L895,369 L1094,431 L1200,423 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,592 L0,592 L195,528 L426,390 L585,437 L828,545 L1022,393 L1200,424 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="433" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">說岳全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十六回　兀朮施恩養秦檜苗傅銜怨殺王淵</text>
+<text x="90" y="563" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">劉正彥辭了苗傅，上馬回衙，暗傳號令，命本部兵</tspan><tspan x="90" dy="34">卒準備器械，飽食酒飯。到了三更時分，二人率領</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

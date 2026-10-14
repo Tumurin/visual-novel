@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="濟公全傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="912" cy="216" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,427 L0,427 L236,302 L470,332 L726,394 L938,325 L1092,384 L1200,345 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,488 L0,488 L158,479 L353,472 L598,471 L777,341 L958,385 L1188,363 L1200,406 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,600 L0,600 L143,542 L328,474 L506,408 L675,452 L914,409 L1164,480 L1200,551 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="417" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">濟公全傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十二回</text>
+<text x="90" y="547" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說李平見了馬靜無話可說，愣夠多時，自己一想</tspan><tspan x="90" dy="34">："要不說罷，又耽誤了弟兄的交情，要是說罷我</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

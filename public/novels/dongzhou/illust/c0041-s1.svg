@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="東周列國志">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1008" cy="214" r="61" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,436 L0,436 L179,323 L380,325 L634,376 L789,370 L986,342 L1156,400 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,501 L0,501 L200,378 L361,398 L564,337 L806,474 L1056,355 L1200,456 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,596 L0,596 L166,496 L308,421 L547,504 L744,434 L932,433 L1151,433 L1200,401 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="467" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">東周列國志</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十一回　連谷城子玉自殺　踐土壇晉侯主盟</text>
+<text x="90" y="597" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話說楚將鬥越椒與小將軍成大心，不去追趕祁瞞，</tspan><tspan x="90" dy="34">竟殺入中軍，越椒見大將旗迎風蕩揚，一箭射將下</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

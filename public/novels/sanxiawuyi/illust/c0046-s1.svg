@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三俠五義">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="842" cy="151" r="63" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,441 L0,441 L205,396 L381,317 L551,366 L785,377 L995,323 L1196,382 L1200,360 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,529 L0,529 L155,346 L410,330 L550,339 L749,364 L926,473 L1139,372 L1200,418 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L201,467 L420,433 L590,412 L733,452 L908,485 L1119,521 L1200,405 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="440" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">三俠五義</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十六回     設謀誆藥氣走韓彰　遣興濟貧忻逢趙慶</text>
+<text x="90" y="570" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">這裡韓爺只顧奔前面樹林，以為蔣平拿了藥去，先</tspan><tspan x="90" dy="34">解救徐慶去了。那裡知道他是奔了開封府呢。韓二</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="醒世姻緣傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1001" cy="222" r="54" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,403 L0,403 L198,405 L417,342 L663,364 L878,338 L1045,366 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,486 L0,486 L227,441 L463,453 L679,434 L870,364 L1118,401 L1200,438 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L232,405 L390,458 L619,432 L771,514 L996,554 L1186,475 L1200,475 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="400" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">醒世姻緣傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十四回  狄生客中遇賢主 天爺秋裏殛兇人</text>
+<text x="90" y="530" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">最可恨的：不論豬肉、羊肉、雞肉、鴨肉，一應鮮</tspan><tspan x="90" dy="34">茶乾菜，都要使滾湯炸過，去了原湯，把來侵在冷</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

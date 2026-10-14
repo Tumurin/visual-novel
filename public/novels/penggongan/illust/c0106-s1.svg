@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1007" cy="141" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,454 L0,454 L224,301 L407,389 L614,407 L776,373 L944,374 L1089,302 L1200,375 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,489 L0,489 L239,342 L477,446 L729,420 L932,453 L1094,404 L1200,433 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,590 L0,590 L175,429 L334,525 L566,439 L732,502 L925,459 L1177,513 L1200,399 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="438" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第一百十三回  勝奎智請金眼雕  邱成禮服活閻王</text>
+<text x="90" y="568" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">原來勝奎來時，金眼雕已知道活閻王焦振遠所做之</tspan><tspan x="90" dy="34">事，便故意裝瘋。把勝三騙走，這才把邱明月叫過</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

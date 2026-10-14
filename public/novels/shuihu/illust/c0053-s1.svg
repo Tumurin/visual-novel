@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="996" cy="124" r="60" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,443 L0,443 L153,386 L321,368 L513,320 L669,336 L833,302 L982,390 L1200,311 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,517 L0,517 L253,342 L441,448 L677,385 L874,417 L1046,465 L1200,342 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,571 L0,571 L226,548 L369,384 L575,437 L729,450 L887,448 L1110,535 L1200,525 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="395" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五十三回　入雲龍鬬法破高廉　黑旋風下井救柴進</text>
+<text x="90" y="525" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">再說知府高廉在城中箭瘡己痊，隔夜小軍來報知宋</tspan><tspan x="90" dy="34">江軍馬又到，早晨都披掛了衣甲，便開了城門，放</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

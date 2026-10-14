@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="初刻拍案驚奇">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="968" cy="169" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,421 L0,421 L193,320 L336,350 L555,334 L791,362 L1027,404 L1200,354 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,509 L0,509 L195,387 L419,404 L625,365 L778,342 L1037,431 L1178,469 L1200,409 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,581 L0,581 L140,424 L296,501 L449,538 L694,556 L896,528 L1039,493 L1200,543 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="454" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">初刻拍案驚奇</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第三十卷王大使威行部下　李參軍冤報生前</text>
+<text x="90" y="584" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">一件是唐逸史上說的：長安城南曾有僧，日中求齋</tspan><tspan x="90" dy="34">，偶見桑樹上有一女子在那裡採桑，合掌問道：「</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

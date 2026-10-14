@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="喻世明言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="1033" cy="159" r="65" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,421 L0,421 L200,401 L384,300 L625,351 L877,367 L1105,368 L1200,369 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,488 L0,488 L258,406 L494,351 L686,386 L890,432 L1128,357 L1200,364 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,609 L0,609 L215,439 L398,428 L629,515 L783,397 L924,458 L1175,549 L1200,496 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="436" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">喻世明言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二十八卷　李秀卿義結黃貞女</text>
+<text x="90" y="566" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">暇日攀今吊古，從來几個男儿，履危臨難有神机，</tspan><tspan x="90" dy="34">不被他人算計？男子盡多慌錯，婦人反有權奇。若</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

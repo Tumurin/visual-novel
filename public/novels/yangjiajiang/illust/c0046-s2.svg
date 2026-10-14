@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="楊家將傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="789" cy="205" r="58" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,447 L0,447 L205,333 L409,352 L604,370 L822,304 L962,361 L1200,397 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,483 L0,483 L146,393 L305,347 L551,369 L741,414 L948,369 L1176,348 L1200,333 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,594 L0,594 L179,439 L335,436 L578,502 L791,433 L1017,505 L1195,465 L1200,512 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="406" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">楊家將傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第四十六回　達達國議舉伐宋　楊宗保兵徵西夏</text>
+<text x="90" y="536" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">西番殷帥見宋兵出戰，排開陣勢，馬上高叫：“宋</tspan><tspan x="90" dy="34">將作急投降，必有重用；假若執迷，吾今十萬羌兵</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="水滸傳">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="790" cy="135" r="66" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,431 L0,431 L163,331 L404,309 L599,378 L816,383 L1057,378 L1200,327 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,477 L0,477 L150,413 L315,469 L535,409 L716,436 L935,365 L1132,387 L1200,392 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,596 L0,596 L231,452 L422,464 L588,476 L768,434 L996,548 L1200,393 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="458" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">水滸傳</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六十七回　宋公明夜打曾頭市　盧俊義活捉史文恭</text>
+<text x="90" y="588" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">次日，曾塗對史文恭計議道：「若不先斬賊首，難</tspan><tspan x="90" dy="34">以追滅。」囑付教師史文恭牢守寨柵。曾塗率領軍</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

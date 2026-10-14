@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="彭公案">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="987" cy="197" r="47" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,426 L0,426 L163,300 L407,353 L561,355 L775,381 L986,315 L1200,357 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,478 L0,478 L204,478 L456,441 L688,369 L852,350 L1065,368 L1200,374 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,553 L0,553 L252,502 L477,542 L730,434 L959,549 L1200,415 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="454" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">彭公案</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第二三四回  金眼雕力劈飛雲僧  衆差官退敵捉韓登</text>
+<text x="90" y="584" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">話猶未了，西北一片吶喊，金眼雕、伍氏三雄、邱</tspan><tspan x="90" dy="34">明月、追風俠劉雲、醉尉遲劉天雄帶着二百子弟兵</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

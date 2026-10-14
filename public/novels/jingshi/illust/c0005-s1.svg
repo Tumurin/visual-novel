@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="705" cy="198" r="69" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,406 L0,406 L166,325 L390,394 L616,356 L760,385 L917,366 L1097,357 L1200,386 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,529 L0,529 L153,396 L411,475 L637,467 L845,353 L1098,446 L1200,368 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,562 L0,562 L190,490 L414,396 L609,429 L843,555 L1022,471 L1200,481 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="467" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第五卷    呂大郎還金完骨肉</text>
+<text x="90" y="597" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">卻說金家兩個學生，在社學中讀書。放了學時，常</tspan><tspan x="90" dy="34">到庵中頑耍。這一晚，又到庵中。老和尚想道：「</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>

@@ -1,0 +1,622 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="閱讀 — 古典小說書庫">
+  <!-- 閱讀進度條 -->
+  <div
+    id="progress"
+    class="fixed inset-x-0 top-0 z-50 h-0.5 origin-left bg-fg/60"
+    style="transform: scaleX(0)"
+  >
+  </div>
+
+  <!-- 頂部細 bar -->
+  <header class="fixed inset-x-0 top-0 z-40 border-b border-line bg-page/90 backdrop-blur-sm">
+    <div class="mx-auto flex h-12 max-w-3xl items-center gap-2 px-4 sm:px-6">
+      <a
+        href="/"
+        class="hidden shrink-0 rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg sm:block"
+        >← 書庫</a
+      >
+      <div class="flex min-w-0 flex-1 items-baseline justify-center sm:justify-start">
+        <p id="bar-title" class="truncate text-sm tracking-wide">&nbsp;</p>
+        <span id="bar-pos" class="ml-2 hidden shrink-0 text-xs tracking-wider text-muted sm:inline"></span>
+      </div>
+
+      <!-- 桌機控制項 -->
+      <div class="hidden shrink-0 items-center gap-1 sm:flex">
+        <button
+          type="button"
+          data-action="fs-dec"
+          aria-label="縮小字級"
+          title="縮小字級"
+          class="rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg disabled:opacity-30 disabled:hover:border-transparent disabled:hover:text-muted"
+          >A−</button
+        >
+        <button
+          type="button"
+          data-action="fs-inc"
+          aria-label="放大字級"
+          title="放大字級"
+          class="rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg disabled:opacity-30 disabled:hover:border-transparent disabled:hover:text-muted"
+          >A＋</button
+        >
+        <button
+          type="button"
+          data-action="theme"
+          aria-label="切換主題（紙白／書卷／墨夜）"
+          title="切換主題（紙白／書卷／墨夜）"
+          class="theme-btn rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg"
+          >紙白</button
+        >
+        <button
+          type="button"
+          data-action="ads"
+          aria-label="切換廣告版"
+          aria-pressed="false"
+          title="以廣告創意取代插畫"
+          class="ads-btn rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg"
+          >廣告版</button
+        >
+        <button
+          type="button"
+          data-action="toc"
+          aria-label="開啟目錄"
+          class="rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg"
+          >目錄</button
+        >
+      </div>
+
+      <!-- 手機頂 bar 只有目錄鈕 -->
+      <button
+        type="button"
+        data-action="toc"
+        aria-label="開啟目錄"
+        class="shrink-0 rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg sm:hidden"
+        >目錄</button
+      >
+    </div>
+  </header>
+
+  <!-- 正文 -->
+  <main id="main-content" class="reader-main mx-auto max-w-[38rem] px-5 pt-24 sm:px-6">
+    <p id="live-status" role="status" aria-live="polite" class="sr-only"></p>
+    <p id="reader-status" class="py-24 text-center text-sm tracking-widest text-muted">載入中…</p>
+
+    <article id="reader" hidden>
+      <header class="mb-12 text-center sm:mb-16">
+        <p id="book-title" class="text-sm tracking-[0.3em] text-muted"></p>
+        <h1 id="ch-title" class="chapter-title mt-4 text-balance text-xl font-semibold leading-relaxed tracking-wide sm:text-2xl"></h1>
+      </header>
+
+      <div id="body" class="reader-body"></div>
+
+      <nav class="mt-20 flex gap-4 border-t border-line pt-10">
+        <span id="prev-disabled" hidden aria-hidden="true" class="flex-1 py-4 text-center text-sm tracking-widest text-muted"
+          >上一回</span
+        >
+        <a
+          id="prev-btn"
+          href="#"
+          class="flex-1 border border-line py-4 text-center text-sm tracking-widest transition-colors hover:bg-soft"
+          >上一回</a
+        >
+        <a
+          id="next-btn"
+          href="#"
+          class="flex-1 border border-line py-4 text-center text-sm tracking-widest transition-colors hover:bg-soft"
+          >下一回</a
+        >
+        <span id="next-disabled" hidden aria-hidden="true" class="flex-1 py-4 text-center text-sm tracking-widest text-muted"
+          >下一回</span
+        >
+      </nav>
+    </article>
+
+    <div id="error" hidden class="py-24 text-center">
+      <p id="error-title" class="text-xl font-semibold tracking-[0.2em]"></p>
+      <p id="error-desc" class="mt-4 text-sm leading-7 text-muted"></p>
+      <div id="error-actions" class="mt-10 flex justify-center gap-4"></div>
+    </div>
+  </main>
+
+  <!-- 手機底部工具列 -->
+  <div class="bottom-toolbar fixed inset-x-0 bottom-0 z-40 border-t border-line bg-page/95 backdrop-blur-sm sm:hidden">
+    <div class="flex items-stretch">
+      <button
+        type="button"
+        data-action="fs-dec"
+        aria-label="縮小字級"
+        class="flex-1 py-3 text-sm text-muted transition-colors active:text-fg disabled:opacity-30"
+        >A−</button
+      >
+      <button
+        type="button"
+        data-action="fs-inc"
+        aria-label="放大字級"
+        class="flex-1 py-3 text-sm text-muted transition-colors active:text-fg disabled:opacity-30"
+        >A＋</button
+      >
+      <button
+        type="button"
+        data-action="theme"
+        aria-label="切換主題（紙白／書卷／墨夜）"
+        class="theme-btn flex-1 py-3 text-sm text-muted transition-colors active:text-fg"
+        >紙白</button
+      >
+      <button
+        type="button"
+        data-action="ads"
+        aria-label="切換廣告版"
+        aria-pressed="false"
+        class="ads-btn flex-1 py-3 text-sm text-muted transition-colors active:text-fg"
+        >廣告版</button
+      >
+    </div>
+  </div>
+
+  <!-- 目錄抽屜 -->
+  <div id="toc-overlay" hidden class="fixed inset-0 z-50 bg-black/30"></div>
+  <aside
+    id="toc"
+    class="toc-drawer fixed inset-y-0 right-0 z-50 flex w-full translate-x-full flex-col border-l border-line bg-page sm:w-80"
+    aria-hidden="true"
+  >
+    <div class="flex h-12 shrink-0 items-center justify-between border-b border-line px-5">
+      <p class="text-sm tracking-[0.3em] text-muted">目錄</p>
+      <button
+        type="button"
+        data-action="toc-close"
+        aria-label="關閉目錄"
+        class="rounded border border-transparent px-2 py-1 text-sm text-muted transition-colors hover:border-line hover:text-fg"
+        >關閉</button
+      >
+    </div>
+    <p id="toc-book" class="shrink-0 border-b border-line px-5 py-4 text-lg font-semibold tracking-wide"></p>
+    <nav id="toc-list" class="flex-1 overflow-y-auto py-2"></nav>
+  </aside>
+
+  <script>
+    interface ChapterMeta {
+      n: number;
+      title: string;
+      chars: number;
+    }
+    interface NovelMeta {
+      slug: string;
+      title: string;
+      author: string;
+      dynasty: string;
+      description: string;
+      chapterCount: number;
+      totalChars: number;
+      chapters: ChapterMeta[];
+    }
+    interface ChapterData {
+      n: number;
+      title: string;
+      paragraphs: string[];
+    }
+    interface Scene {
+      para: number;
+      excerpt: string;
+      image: string;
+      prompt?: string;
+    }
+    interface ScenesFile {
+      chapters: Record<string, Scene[]>;
+    }
+    interface Ad {
+      id: string;
+      brand: string;
+      slogan: string;
+      image: string;
+      cta: string;
+      url: string;
+    }
+
+    const $ = <T extends Element = Element>(s: string, r: ParentNode = document) =>
+      r.querySelector(s) as T;
+    const $$ = <T extends Element = Element>(s: string, r: ParentNode = document) =>
+      Array.from(r.querySelectorAll(s)) as T[];
+
+    const params = new URLSearchParams(location.search);
+    const slug = params.get("n") || "";
+
+    const FS_LEVELS = [16, 18, 19, 21, 24];
+    const THEMES = [
+      { id: "paper", name: "紙白" },
+      { id: "rice", name: "書卷" },
+      { id: "ink", name: "墨夜" },
+    ];
+
+    let meta: NovelMeta | null = null;
+    let chapterNum = 1;
+    let figureScenes: Scene[] = [];
+    let ads: Ad[] | null = null;
+    let adsOn = false;
+    let fsIndex = 2;
+    let scenesPromise: Promise<ScenesFile | null> | null = null;
+
+    const store = {
+      get(k: string): string | null {
+        try {
+          return localStorage.getItem(k);
+        } catch {
+          return null;
+        }
+      },
+      set(k: string, v: string): void {
+        try {
+          localStorage.setItem(k, v);
+        } catch {}
+      },
+    };
+
+    // ---------- 偏好設定 ----------
+
+    function setTheme(id: string, save = true): void {
+      document.documentElement.dataset.theme = id;
+      document.documentElement.style.colorScheme = id === "ink" ? "dark" : "light";
+      const t = THEMES.find((x) => x.id === id) || THEMES[0];
+      $$<HTMLButtonElement>(".theme-btn").forEach((b) => (b.textContent = t.name));
+      if (save) store.set("vn:theme", id);
+    }
+
+    function cycleTheme(): void {
+      const cur = document.documentElement.dataset.theme || "paper";
+      const i = THEMES.findIndex((x) => x.id === cur);
+      setTheme(THEMES[(i + 1) % THEMES.length].id);
+    }
+
+    function setFs(i: number, save = true): void {
+      fsIndex = Math.min(Math.max(i, 0), FS_LEVELS.length - 1);
+      document.documentElement.style.setProperty("--reader-fs", FS_LEVELS[fsIndex] + "px");
+      $$<HTMLButtonElement>('[data-action="fs-dec"]').forEach((b) => (b.disabled = fsIndex === 0));
+      $$<HTMLButtonElement>('[data-action="fs-inc"]').forEach(
+        (b) => (b.disabled = fsIndex === FS_LEVELS.length - 1)
+      );
+      if (save) store.set("vn:fs", String(fsIndex));
+    }
+
+    function setAds(on: boolean, save = true): void {
+      adsOn = on;
+      $$<HTMLButtonElement>(".ads-btn").forEach((b) => {
+        b.setAttribute("aria-pressed", String(on));
+        b.classList.toggle("border-line", on);
+        b.classList.toggle("text-fg", on);
+        b.classList.toggle("border-transparent", !on);
+        b.classList.toggle("text-muted", !on);
+      });
+      if (save) store.set("vn:ads", on ? "1" : "0");
+      applyAds();
+      syncUrl();
+    }
+
+    function syncUrl(): void {
+      if (!meta) return;
+      const q = `/read?n=${encodeURIComponent(slug)}&c=${chapterNum}${adsOn ? "&ads=1" : ""}`;
+      history.replaceState(null, "", q);
+    }
+
+    // ---------- 資料 ----------
+
+    function getScenes(): Promise<ScenesFile | null> {
+      if (!scenesPromise) {
+        scenesPromise = fetch(`/novels/${slug}/scenes.json`)
+          .then((r) => (r.ok ? (r.json() as Promise<ScenesFile>) : null))
+          .catch(() => null);
+      }
+      return scenesPromise;
+    }
+
+    async function getAds(): Promise<Ad[]> {
+      if (!ads) {
+        try {
+          const r = await fetch("/ads/ads.json");
+          ads = r.ok ? ((await r.json()) as Ad[]) : [];
+          if (!Array.isArray(ads)) ads = [];
+        } catch {
+          ads = [];
+        }
+      }
+      return ads;
+    }
+
+    // ---------- 渲染 ----------
+
+    function showError(title: string, desc: string, backToBook: boolean): void {
+      $("#reader-status").hidden = true;
+      $("#reader").hidden = true;
+      const err = $<HTMLDivElement>("#error");
+      err.hidden = false;
+      $("#error-title").textContent = title;
+      $("#error-desc").textContent = desc;
+      const actions = $<HTMLDivElement>("#error-actions");
+      actions.innerHTML = "";
+      const cls =
+        "border border-line px-6 py-3 text-sm tracking-widest transition-colors hover:bg-soft";
+      if (backToBook && meta) {
+        const a = document.createElement("a");
+        a.href = `/read?n=${encodeURIComponent(slug)}&c=1`;
+        a.textContent = "回到第一回";
+        a.className = cls;
+        actions.appendChild(a);
+      }
+      const home = document.createElement("a");
+      home.href = "/";
+      home.textContent = "回書庫";
+      home.className = cls;
+      actions.appendChild(home);
+    }
+
+    function makeFigure(scene: Scene): HTMLElement {
+      const idx = figureScenes.length;
+      figureScenes.push(scene);
+      const fig = document.createElement("figure");
+      fig.className = "my-10";
+      fig.dataset.fig = String(idx);
+      fig.innerHTML = `
+        <div class="relative">
+          <img loading="lazy" class="w-full rounded-md border border-line" alt="" />
+          <span class="ad-badge absolute right-2 top-2 rounded-sm border border-line bg-page/85 px-1.5 py-0.5 text-[10px] tracking-[0.2em] text-muted" hidden>廣告</span>
+        </div>
+        <figcaption class="mt-3 text-center text-[13px] leading-6 text-muted"></figcaption>`;
+      return fig;
+    }
+
+    async function applyAds(): Promise<void> {
+      const figures = $$<HTMLElement>("#body figure");
+      if (figures.length === 0) return;
+      const adList = adsOn ? await getAds() : [];
+      const useAds = adsOn && adList.length > 0;
+      const rot = useAds ? chapterNum % adList.length : 0;
+      let last = -1;
+      figures.forEach((fig, i) => {
+        const scene = figureScenes[i];
+        if (!scene) return;
+        const img = fig.querySelector("img") as HTMLImageElement;
+        const cap = fig.querySelector("figcaption") as HTMLElement;
+        const badge = fig.querySelector(".ad-badge") as HTMLElement;
+        if (useAds) {
+          let idx = (rot + i) % adList.length;
+          if (idx === last) idx = (idx + 1) % adList.length;
+          last = idx;
+          const ad = adList[idx];
+          img.src = ad.image;
+          img.alt = ad.brand;
+          cap.textContent = "";
+          const text = document.createElement("span");
+          text.textContent = `${ad.brand}｜${ad.slogan}　`;
+          const link = document.createElement("a");
+          link.href = ad.url;
+          link.target = "_blank";
+          link.rel = "noopener";
+          link.textContent = `${ad.cta} →`;
+          link.className = "underline decoration-line underline-offset-4 transition-colors hover:text-fg";
+          cap.append(text, link);
+          badge.hidden = false;
+        } else {
+          img.src = `/novels/${slug}/${scene.image}`;
+          img.alt = scene.excerpt || "";
+          cap.textContent = scene.excerpt || "";
+          badge.hidden = true;
+        }
+      });
+    }
+
+    function buildToc(): void {
+      if (!meta) return;
+      $("#toc-book").textContent = meta.title;
+      const nav = $<HTMLElement>("#toc-list");
+      nav.innerHTML = "";
+      meta.chapters.forEach((c) => {
+        const a = document.createElement("a");
+        a.href = `/read?n=${encodeURIComponent(slug)}&c=${c.n}`;
+        a.dataset.c = String(c.n);
+        a.className =
+          "toc-item block px-5 py-2.5 text-[14px] leading-6 text-muted transition-colors hover:bg-soft hover:text-fg";
+        a.textContent = c.title;
+        nav.appendChild(a);
+      });
+    }
+
+    function highlightToc(): void {
+      $$<HTMLAnchorElement>(".toc-item").forEach((a) =>
+        a.classList.toggle("is-current", a.dataset.c === String(chapterNum))
+      );
+    }
+
+    function openToc(): void {
+      $<HTMLElement>("#toc-overlay").hidden = false;
+      const toc = $<HTMLElement>("#toc");
+      toc.classList.remove("translate-x-full");
+      toc.setAttribute("aria-hidden", "false");
+      const cur = $<HTMLElement>(".toc-item.is-current");
+      if (cur) cur.scrollIntoView({ block: "center" });
+    }
+
+    function closeToc(): void {
+      $<HTMLElement>("#toc-overlay").hidden = true;
+      const toc = $<HTMLElement>("#toc");
+      toc.classList.add("translate-x-full");
+      toc.setAttribute("aria-hidden", "true");
+    }
+
+    function updatePager(): void {
+      if (!meta) return;
+      const total = meta.chapterCount || meta.chapters.length;
+      const prev = $<HTMLAnchorElement>("#prev-btn");
+      const next = $<HTMLAnchorElement>("#next-btn");
+      const hasPrev = chapterNum > 1;
+      const hasNext = chapterNum < total;
+      prev.hidden = !hasPrev;
+      $<HTMLElement>("#prev-disabled").hidden = hasPrev;
+      next.hidden = !hasNext;
+      $<HTMLElement>("#next-disabled").hidden = hasNext;
+      const suffix = adsOn ? "&ads=1" : "";
+      if (hasPrev) prev.href = `/read?n=${encodeURIComponent(slug)}&c=${chapterNum - 1}${suffix}`;
+      if (hasNext) next.href = `/read?n=${encodeURIComponent(slug)}&c=${chapterNum + 1}${suffix}`;
+    }
+
+    function renderChapter(ch: ChapterData, chapterScenes: Scene[]): void {
+      if (!meta) return;
+      document.title = `${ch.title} — ${meta.title} — 古典小說書庫`;
+      $("#bar-title").textContent = `${meta.title}　${ch.title}`;
+      const totalChapters = meta.chapterCount || meta.chapters.length;
+      $("#bar-pos").textContent = `第 ${ch.n} / ${totalChapters} 回`;
+      $("#live-status").textContent = `已載入第 ${ch.n} 回：${ch.title}`;
+      $("#book-title").textContent = `${meta.title}・${meta.author}`;
+      $("#ch-title").textContent = ch.title;
+
+      const body = $<HTMLDivElement>("#body");
+      body.innerHTML = "";
+      figureScenes = [];
+
+      const byPara = new Map<number, Scene[]>();
+      chapterScenes.forEach((s) => {
+        const list = byPara.get(s.para) || [];
+        list.push(s);
+        byPara.set(s.para, list);
+      });
+
+      const frag = document.createDocumentFragment();
+      const paras = Array.isArray(ch.paragraphs) ? ch.paragraphs : [];
+      paras.forEach((text, i) => {
+        const p = document.createElement("p");
+        p.textContent = text;
+        frag.appendChild(p);
+        (byPara.get(i) || []).forEach((s) => frag.appendChild(makeFigure(s)));
+      });
+      // para 超出範圍的場景，靜默附於章末
+      byPara.forEach((list, k) => {
+        if (k < 0 || k >= paras.length) list.forEach((s) => frag.appendChild(makeFigure(s)));
+      });
+      body.appendChild(frag);
+
+      updatePager();
+      highlightToc();
+      applyAds();
+
+      $("#reader-status").hidden = true;
+      $<HTMLElement>("#error").hidden = true;
+      $<HTMLElement>("#reader").hidden = false;
+      updateProgress();
+    }
+
+    async function loadChapter(n: number): Promise<void> {
+      chapterNum = n;
+      $("#reader-status").hidden = false;
+      $<HTMLElement>("#reader").hidden = true;
+      $<HTMLElement>("#error").hidden = true;
+
+      let ch: ChapterData;
+      try {
+        const r = await fetch(`/novels/${slug}/chapters/${String(n).padStart(4, "0")}.json`);
+        if (!r.ok) throw new Error(String(r.status));
+        ch = (await r.json()) as ChapterData;
+      } catch {
+        showError("找不到這一回", `《${meta!.title}》沒有第 ${n} 回，也許它還在整理中。`, true);
+        return;
+      }
+
+      const scenes = await getScenes();
+      const chapterScenes = (scenes?.chapters?.[String(n)] || []).slice();
+      chapterScenes.sort((a, b) => a.para - b.para);
+
+      renderChapter(ch, chapterScenes);
+      store.set(`vn:progress:${slug}`, String(n));
+      syncUrl();
+      window.scrollTo(0, 0);
+    }
+
+    function goto(n: number): void {
+      location.href = `/read?n=${encodeURIComponent(slug)}&c=${n}${adsOn ? "&ads=1" : ""}`;
+    }
+
+    // ---------- 進度條 ----------
+
+    function updateProgress(): void {
+      const h = document.documentElement;
+      const max = h.scrollHeight - h.clientHeight;
+      const p = max > 0 ? Math.min(Math.max(h.scrollTop / max, 0), 1) : 0;
+      $<HTMLElement>("#progress").style.transform = `scaleX(${p})`;
+    }
+    addEventListener("scroll", updateProgress, { passive: true });
+    addEventListener("resize", updateProgress);
+
+    // ---------- 事件 ----------
+
+    document.addEventListener("click", (e) => {
+      const btn = (e.target as HTMLElement).closest("[data-action]") as HTMLElement | null;
+      if (!btn) return;
+      const a = btn.dataset.action;
+      if (a === "fs-dec") setFs(fsIndex - 1);
+      else if (a === "fs-inc") setFs(fsIndex + 1);
+      else if (a === "theme") cycleTheme();
+      else if (a === "ads") setAds(!adsOn);
+      else if (a === "toc") openToc();
+      else if (a === "toc-close") closeToc();
+    });
+
+    $<HTMLElement>("#toc-overlay").addEventListener("click", closeToc);
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") return closeToc();
+      if (!meta) return;
+      const t = e.target as HTMLElement;
+      if (t.closest("input, textarea, select")) return;
+      const total = meta.chapterCount || meta.chapters.length;
+      if (e.key === "ArrowLeft" && chapterNum > 1) goto(chapterNum - 1);
+      else if (e.key === "ArrowRight" && chapterNum < total) goto(chapterNum + 1);
+    });
+
+    // ---------- 啟動 ----------
+
+    async function boot(): Promise<void> {
+      // 還原偏好；?theme=paper|rice|ink 可預覽主題（不寫入 localStorage）
+      const themeParam = params.get("theme");
+      if (themeParam && THEMES.some((t) => t.id === themeParam)) setTheme(themeParam, false);
+      else setTheme(store.get("vn:theme") || "paper", false);
+      const savedFs = parseInt(store.get("vn:fs") || "", 10);
+      setFs(Number.isInteger(savedFs) ? savedFs : 2, false);
+      const adsParam = params.get("ads");
+      if (adsParam === "1") {
+        adsOn = true;
+        store.set("vn:ads", "1");
+      } else if (adsParam === "0") {
+        adsOn = false;
+        store.set("vn:ads", "0");
+      } else {
+        adsOn = store.get("vn:ads") === "1";
+      }
+      setAds(adsOn, false);
+
+      if (!slug) {
+        showError("缺少書名參數", "請從書庫選擇一本書開始閱讀。", false);
+        return;
+      }
+
+      try {
+        const r = await fetch(`/novels/${slug}/meta.json`);
+        if (!r.ok) throw new Error(String(r.status));
+        meta = (await r.json()) as NovelMeta;
+      } catch {
+        showError("找不到這本書", "書庫中沒有這部小說，也許它還在建置中。", false);
+        return;
+      }
+      buildToc();
+
+      let c = parseInt(params.get("c") || "", 10);
+      const total = meta.chapterCount || meta.chapters.length;
+      if (!Number.isInteger(c) || c < 1) {
+        const saved = parseInt(store.get(`vn:progress:${slug}`) || "", 10);
+        c = Number.isInteger(saved) && saved >= 1 && saved <= total ? saved : 1;
+      }
+      loadChapter(c);
+    }
+
+    boot();
+  </script>
+</Base>

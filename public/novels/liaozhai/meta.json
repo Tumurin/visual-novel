@@ -1,0 +1,73 @@
+{
+  "slug": "liaozhai",
+  "title": "聊齋誌異",
+  "author": "蒲松齡",
+  "dynasty": "清",
+  "description": "狐鬼花妖的短篇志怪故事集。",
+  "source": "https://www.gutenberg.org/ebooks/51828",
+  "license": "Public Domain",
+  "chapterCount": 12,
+  "totalChars": 487676,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "卷一",
+      "chars": 33720
+    },
+    {
+      "n": 2,
+      "title": "卷二",
+      "chars": 44199
+    },
+    {
+      "n": 3,
+      "title": "卷三",
+      "chars": 42594
+    },
+    {
+      "n": 4,
+      "title": "卷四",
+      "chars": 41214
+    },
+    {
+      "n": 5,
+      "title": "卷五",
+      "chars": 37907
+    },
+    {
+      "n": 6,
+      "title": "卷六",
+      "chars": 42026
+    },
+    {
+      "n": 7,
+      "title": "卷七",
+      "chars": 45903
+    },
+    {
+      "n": 8,
+      "title": "卷八",
+      "chars": 37450
+    },
+    {
+      "n": 9,
+      "title": "卷九",
+      "chars": 37055
+    },
+    {
+      "n": 10,
+      "title": "卷十",
+      "chars": 44535
+    },
+    {
+      "n": 11,
+      "title": "卷十一",
+      "chars": 44648
+    },
+    {
+      "n": 12,
+      "title": "卷十二",
+      "chars": 36425
+    }
+  ]
+}

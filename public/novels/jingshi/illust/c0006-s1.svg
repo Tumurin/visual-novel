@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="警世通言">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f2e7"/><stop offset="1" stop-color="#e6dcc6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="775" cy="175" r="52" fill="#b3402a" opacity="0.75"/>
+<path d="M0,675 L0,417 L0,417 L180,356 L417,300 L602,341 L828,362 L1030,400 L1200,326 L1200,675 Z" fill="#2b3440" opacity="0.18"/><path d="M0,675 L0,507 L0,507 L198,377 L424,458 L573,455 L795,423 L1015,440 L1200,339 L1200,675 Z" fill="#2b3440" opacity="0.3"/><path d="M0,675 L0,610 L0,610 L250,554 L448,520 L669,559 L820,454 L1011,558 L1200,391 L1200,675 Z" fill="#2b3440" opacity="0.45"/>
+<ellipse cx="600" cy="418" rx="660" ry="60" fill="#f7f2e7" opacity="0.55"/>
+<text x="90" y="120" font-family="serif" font-size="54" fill="#222">警世通言</text>
+<text x="90" y="180" font-family="serif" font-size="30" fill="#555">第六卷    俞仲舉題詩遇上皇</text>
+<text x="90" y="548" font-family="serif" font-size="24" fill="#444"><tspan x="90" dy="0">再說司馬相如同天使至京師朝見，獻〈上林賦〉一</tspan><tspan x="90" dy="34">篇。天子大喜，即拜為著作郎，待詔金馬門。近有</tspan></text>
+<g transform="translate(1070,545)">
+  <rect width="86" height="86" fill="#b3402a" rx="6"/>
+  <text x="43" y="40" text-anchor="middle" font-family="serif" font-size="30" fill="#f7f2e7">插畫</text>
+  <text x="43" y="72" text-anchor="middle" font-family="serif" font-size="22" fill="#f7f2e7">占位</text>
+</g>
+</svg>
